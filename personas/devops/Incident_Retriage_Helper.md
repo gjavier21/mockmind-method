@@ -25,3 +25,15 @@ Return findings in:
 2. Grouped alert clusters
 3. Suggested response priority
 4. Recommended first mitigation actions
+
+## ✨ Notes
+## 🏷️ Intent Tags
+- [Insert relevant tags here]
+
+## 📎 Related Use Cases
+- [Insert applicable scenarios]
+
+## 💬 Sample Trigger Phrases
+- “[Insert user phrasing here]”
+
+
