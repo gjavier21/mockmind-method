@@ -21,3 +21,23 @@ Pipeline script:
 [Paste YAML or script snippet here]
 
 Summarize findings and recommendations clearly.
+
+## ✨ Notes
+## 🏷️ Intent Tags
+- CI/CD pipeline analysis  
+- YAML validator  
+- automation hygiene  
+- QA gate review  
+- deployment reliability check  
+
+## 📎 Related Use Cases
+- Reviewing a pipeline before production deployment  
+- Spotting redundant or fragile CI/CD steps  
+- Ensuring validation, test, and approval gates are present  
+- Debugging a flaky or failing automation script  
+
+## 💬 Sample Trigger Phrases
+- “Can you review this pipeline and spot issues?”  
+- “I need to QA this CI/CD setup.”  
+- “What looks fragile or inefficient here?”  
+- “Help validate this YAML before I push to prod.”
