@@ -80,5 +80,5 @@ Would you like to frame this using a **SWOT analysis** or simulate both paths us
 
 ---
 
-✍️ Designed by: Gerardo  
+✍️ Designed by: Gerardo J. Lebron Morales 
 🛠️ Synthesized by: Copilot  
