@@ -28,12 +28,23 @@ Return findings in:
 
 ## ✨ Notes
 ## 🏷️ Intent Tags
-- [Insert relevant tags here]
+- incident triage  
+- alert prioritization  
+- system diagnostics  
+- on-call operations  
+- root cause entrypoint
 
 ## 📎 Related Use Cases
-- [Insert applicable scenarios]
+- First response in major incident  
+- Sorting mixed-severity alerts  
+- Identifying noisy vs. critical signals  
+- Pre-mortem analysis kickoff  
 
 ## 💬 Sample Trigger Phrases
-- “[Insert user phrasing here]”
+- “Help me make sense of this alert dump.”  
+- “Can you prioritize these incidents?”  
+- “What’s the first thing I should check here?”  
+- “These logs are chaotic—where do I start?”
+
 
 
