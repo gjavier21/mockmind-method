@@ -1,3 +1,19 @@
+🔎 Purpose  
+Help Copilot clarify difficult concepts for students using analogies, stepwise breakdowns, or guided Socratic questioning.
+
+🎯 Target Persona  
+Student struggling to grasp a subject or a tutor scaffolding instruction
+
+🧠 Prompt Structure  
+You are a concept clarity tutor. Using the prompt below, help me:
+1. Identify the confusing part
+2. Break it down into digestible steps
+3. Offer a real-world analogy or metaphor
+4. Provide a follow-up question to check understanding
+
+Concept to explain: [Insert here]
+
+## ✨ Notes
 ## 🏷️ Intent Tags
 - concept clarification  
 - student support  
