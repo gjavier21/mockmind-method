@@ -23,3 +23,23 @@ Input data:
 [Paste observability snapshot here]
 
 Return a journal-style output I can review or share.
+
+## ✨ Notes
+## 🏷️ Intent Tags
+- platform health  
+- system heartbeat  
+- daily status report  
+- operational overview  
+- observability journal  
+
+## 📎 Related Use Cases
+- Capturing daily system health snapshots  
+- Logging platform status during incident-free periods  
+- Creating a baseline for anomaly detection  
+- Sharing platform trends with cross-functional teams  
+
+## 💬 Sample Trigger Phrases
+- “Can you log today’s platform health?”  
+- “What’s the system heartbeat look like?”  
+- “I need a daily status journal.”  
+- “Let’s record a no-incident health check.”
