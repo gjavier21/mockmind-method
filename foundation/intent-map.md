@@ -18,3 +18,6 @@ This file maps common user intents and phrasing to the associated DevOps mock fi
 | hypothesis generation        | “Any ideas what caused this failure?”                            | RootCause_Hypothesis_Generator.md           |
 | CI/CD pipeline analysis      | “Can you review this build definition?”                          | CI_CD_Pipeline_QAValidator.md               |
 | automation hygiene           | “What looks fragile or redundant in this pipeline?”              | CI_CD_Pipeline_QAValidator.md               |
+
+
+Add indexing reference comment to intent-map.md
