@@ -1,3 +1,4 @@
+<!-- Auto-indexed from enriched mock files in /personas/devops/ -->
 # 🧠 MockMind Intent Map (DevOps Persona)
 
 This file maps common user intents and phrasing to the associated DevOps mock files. It enables quick lookup, semantic indexing, or future integration into retrieval pipelines.
