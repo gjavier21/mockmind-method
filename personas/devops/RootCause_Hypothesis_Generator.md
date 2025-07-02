@@ -23,3 +23,24 @@ Incident data:
 [Paste logs and time series here]
 
 Structure your output as a root cause exploration tree.
+
+## ✨ Notes
+## 🏷️ Intent Tags
+- root cause analysis  
+- hypothesis generation  
+- post-mortem prep  
+- incident investigation  
+- failure pattern mapping  
+
+## 📎 Related Use Cases
+- Drafting hypotheses before a full RCA  
+- Capturing early theories during live incident review  
+- Structuring “what if” thinking in response retrospectives  
+- Mapping failure signals to potential causes  
+
+## 💬 Sample Trigger Phrases
+- “Can you help brainstorm what caused this?”  
+- “I need possible explanations for this failure.”  
+- “What’s the first hypothesis we should test?”  
+- “Let’s start the root cause tree.”
+
