@@ -1,0 +1,1 @@
+I’m torn between simplifying the workflow or adding more checks.
