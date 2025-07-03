@@ -29,3 +29,31 @@ Each file in `/inbox/prompts/` should be a plain `.txt` file with a natural-lang
 
 Example: `team_engagement.txt`
 
+---
+
+## ⚙️ How It Works
+
+1. Script wakes every 5 seconds
+2. Reads all `.txt` files in `/inbox/prompts/`
+3. Routes each prompt to a minified agent based on keyword tags
+4. Writes `.md` insight to `/memory/insights/`
+5. Archives original prompt as `.processed`
+
+---
+
+## 🧠 Agent Matching Logic (Default)
+
+| Keyword Match               | Agent Triggered         |
+|-----------------------------|--------------------------|
+| “feel”, “confused”          | `mirror-agent.min.md`    |
+| “decide”, “tradeoff”        | `strategy-agent.min.md`  |
+| “remember”, “past decision” | `continuity-agent.min.md`|
+
+You can customize this logic in the `route_prompt()` function.
+
+---
+
+## ✅ First Run
+
+```bash
+python3 tools/standalone-runner.py
