@@ -1,33 +1,98 @@
-# MockMind Method
+# 🧠 MockMind Method
 
 **Created by Gerardo J. Lebron Morales**
 
-MockMind is a cognitive framework for ambient prompt recall, designed to reduce iteration cycles, preserve user wisdom, and accelerate AI-human collaboration. It enables Copilot-style assistants to recognize successful prompt structures and inject them mid-conversation—flattening complexity and expanding cognition for all users.
+**Modular Cognition for Modular Minds**
 
-## 🌟 Vision
+MockMind is a cognitive framework for orchestrated AI-human thinking. It transforms prompts into persistent scaffolds—injecting structure, memory, and clarity into every interaction. Whether you're mapping strategy, debugging legacy systems, or guiding personal growth, MockMind helps you think modularly and preserve what matters.
 
-> *"No great prompt should be lost—and no great idea should begin from scratch."*
+> We don’t just prompt. We scaffold cognition.
 
-MockMind transforms static mock files into a reusable scaffold for intelligence. Whether you're building enterprise systems, crafting educational flows, or mapping strategy, this method helps AI recall your success and replicate it system-wide.
+---
 
-## 📂 Repo Contents
+## 🎯 What It Does
 
-- `/foundation/` – Architecture files, core design (`FOUNDATION_V2.md`)
-- `/metrics/` – Reuse simulations and impact reports
-- `/milestones/` – Your personal breakthrough moments
-- `/personas/` – Sample mock files by domain
-- `/tutorials/` – Contributor guides and checklist
-- `/impact/` – Global vision and usage summary
+MockMind activates specialized agents to reflect, reason, and preserve thought.
 
-## 🤝 Contribute
+| Agent              | Role                                | Description                                                  |
+|--------------------|-------------------------------------|--------------------------------------------------------------|
+| `mockmind-agent`   | Intent Router                       | Directs prompts to the proper cognitive scaffold             |
+| `mirror-agent`     | Emotional Resonator                 | Clarifies tension, contradiction, or vagueness               |
+| `strategy-agent`   | Logical Framer                      | Surfaces models like SWOT, matrix maps, tradeoff ladders     |
+| `continuity-agent` | Insight Preserver                   | Captures rationales, decisions, and emotional signals        |
 
-Want to add your own mock files, reuse metrics, or visualization dashboards? See `/tutorials/TUTORIAL_MockFileChecklist.md` and submit via pull request.
+Each agent outputs modular `.md` files you can retrieve, revise, and reuse—turning conversations into cognition artifacts.
 
-## 📅 Milestone
+---
 
-Activated July 2, 2025 (AST) by originator Gerardo Lebron Morales  
-See: `/milestones/PLAQUE_2025_Gerardo_MockMind_Milestone.md`
+## 🧪 See It in Action
 
-## 📘 License
+Explore MockMind in real-world reasoning scenarios:
 
-Released under MIT License for global reuse and collaborative improvement.
+- 📊 [Multi-Agent Simulation Report](./dashboards/multi-agent-simulation-report.md)  
+- 💡 [Prompt Insight Dashboard](./dashboards/prompt-insight-dashboard.md)  
+- 🧪 [Case Library (coming soon)](./impact/case-library.md)
+
+Examples include:
+- Reframing scientific misconceptions with empathy  
+- Redesigning legacy architectures with tradeoff scaffolds  
+- Preserving emotional insight across decision chains  
+- Mapping CRM trust issues through multi-agent routing
+
+---
+
+## 🧭 Philosophy
+
+MockMind is guided by architectural clarity and emotional resonance.
+
+> Thought is architecture.  
+> Insight is modular.  
+> Memory is navigable.  
+> Emotion is logic.  
+> Wisdom is shareable.
+
+📘 [Read the Manifesto →](./manifesto.md)
+
+---
+
+## 📘 How This Repo Works
+
+| Directory            | Contents                                       |
+|----------------------|------------------------------------------------|
+| `/agents/`           | Modular thinking agents (mirror, strategy...)  |
+| `/personas/`         | Domain-specific overlays (e.g., CRM, coaching) |
+| `/dashboards/`       | Prompt health + multi-agent metrics            |
+| `/foundation/`       | Index, intent maps, and glossary scaffolds     |
+| `/tutorials/`        | Contributor guides, how-to files                |
+| `/impact/`           | Showcase use cases and deployments              |
+
+Start with the 📂 [`/foundation/INDEX.md`](./foundation/INDEX.md) to explore the system layout.
+
+---
+
+## 🤝 Contribute Clarity
+
+MockMind is open to contributors who value thoughtful architecture. You don’t have to be an AI expert—just someone who believes ideas deserve structure.
+
+📘 [See how to contribute →](./tutorials/contributing.md)
+
+We welcome contributions like:
+- New agents with unique reasoning styles  
+- Reusable scaffolds and emotional maps  
+- Persona overlays for vertical domains  
+- Insight case studies and teaching guides
+
+---
+
+## 🔧 Built With
+
+- `.md` files as cognitive scaffolds  
+- Semantic tags for memory and retrieval  
+- Multi-agent orchestration for modular thinking  
+- Thought preservation across use cases  
+
+---
+
+🧠 Created by: Gerardo J. Lebron Morales( https://github.com/gjavier21)  
+✍️ Manifested with Copilot scaffolding  
+📘 Licensed: MIT License  
