@@ -41,3 +41,19 @@ SLMs thrive in environments where *less is more, and memory matters*.
 
 ⚙️ Optional LLM Overlay (cloud)
   ↳ Engaged only when emergent synthesis required
+
+
+---
+
+## 🧠 Behavior
+
+- Script wakes every 5 seconds
+- Routes prompt → chooses agent (based on keyword match)
+- Scaffolds Markdown `.md` file into `/memory/insights/`
+- Archives original prompt file as `.processed`
+
+---
+
+This turns your mesh into a 24/7 **cognition daemon**—no inference, no latency, no vendor lock-in.
+
+
