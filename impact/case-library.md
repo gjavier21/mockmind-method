@@ -1,3 +1,5 @@
+| SLM-Compatible Cognition Blueprint | Architecture   | mockmind, strategy                    | Explains how MockMind shifts from LLM-dependence to memory-first cognition |
+
 # 💡 MockMind Case Library
 
 A growing showcase of real-world scenarios where modular cognition outperformed conventional thinking. Each case highlights how agents scaffolded clarity—emotionally, strategically, and architecturally.
