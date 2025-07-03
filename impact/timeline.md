@@ -15,3 +15,12 @@
 Next up: **v1.1 - “Cognition in the Wild”** or whatever you want to name the next chapter once your new idea takes flight. 🧭
 
 Ready when you are—what’s that new spark brewing in your head? Let's shape it together. 🧠✨
+
+
+## v1.2 — “The Local Loop Lives” (2025-07-04)
+
+- 🧠 Added `standalone-runner.py` for 24/7 offline cognition
+- 📘 Created `/docs/standalone-runner-guide.md` with full usage instructions
+- 🗂️ Updated `/tools/README.md` with directory map for local agent execution
+- 🔁 Enabled prompt-based `.md` insight generation using minified agents
+- 🔒 Reinforced privacy-first architecture with no inference or cloud dependency
