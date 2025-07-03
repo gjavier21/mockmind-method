@@ -12,8 +12,8 @@ A growing showcase of real-world scenarios where modular cognition outperformed 
 | Latency Spike, No Logs                | DevOps         | mirror, strategy, continuity         | Preserved diagnostic rationale in `db-latency-ratios.md` |
 | Impostor Syndrome & Soft Skills Map   | Coaching       | mirror, strategy, continuity         | Scaffolded confidence-growth map with emotional mapping |
 | CRM Trust & Automation Dilemma        | System Design  | mirror, strategy, continuity         | Scaffolded tradeoff ladder and automation journey map |
-| Cross-Unit Knowledge Blueprinting     | AI Ops         | mockmind, strategy, continuity       | Journey mapped Guardian module for reusable insight |
 | SLM-Compatible Cognition Blueprint | Architecture   | mockmind, strategy            | Explains how MockMind shifts from LLM-dependence to memory-first cognition |
+| Cross-Unit Knowledge Blueprinting     | AI Ops         | mockmind, strategy, continuity       | Journey mapped Guardian module for reusable insight |
 
 ---
 
