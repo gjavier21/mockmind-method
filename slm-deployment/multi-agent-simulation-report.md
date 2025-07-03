@@ -53,15 +53,3 @@ MockMind behaves as a modular cognition mesh:
 - Self-hands off when patterns shift
 
 ---
-
-## ⚡ Operational Benefit: Minified Agents in 24/7 Automation
-
-Minified `.md` agents support persistent reasoning with:
-
-- 🧠 Low overhead (~4k tokens) for fast SLM evaluation  
-- 🔌 Offline operation (no cloud, full privacy)  
-- ♻️ Reusability across domains and triggers  
-- 🔁 Perfect for daily decision loops, event-based assistants, or internal daemon services
-
-They behave like **modular cognition capsules**—ideal for continuous automation.
-
