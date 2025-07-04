@@ -24,3 +24,11 @@ Ready when you are—what’s that new spark brewing in your head? Let's shape i
 - 🗂️ Updated `/tools/README.md` with directory map for local agent execution
 - 🔁 Enabled prompt-based `.md` insight generation using minified agents
 - 🔒 Reinforced privacy-first architecture with no inference or cloud dependency
+
+## v1.2.1 – “The Loop Stabilizes” (2025-07-04)
+
+- 🛠️ Patched infinite loop caused by reprocessing `.txt` prompts
+- ✅ Added safeguard for `.processed` file collisions
+- 🧠 Expanded agent routing logic with new keyword triggers
+- 🔁 Filtered prompt queue to skip `.processed` and `.unmatched` files
+- 🧪 Achieved stable, self-regulating cognition loop for local agents
