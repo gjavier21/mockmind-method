@@ -54,6 +54,7 @@ def run_agent(prompt_file, prompt_text, agent_file):
     Path(prompt_file).rename(prompt_file + ".processed")
 
 # 🏃 Runtime loop
+# 🏃 Runtime loop
 def main():
     print("🧠 MockMind Standalone Runner Initialized...")
     os.makedirs(PROMPT_QUEUE, exist_ok=True)
@@ -66,6 +67,10 @@ def main():
                 run_agent(fpath, text, agent)
             else:
                 print(f"⚠️ No match for: {fpath}")
+                # Archive unmatched prompt to avoid infinite loop
+                unmatched_path = fpath + ".unmatched"
+                if not Path(unmatched_path).exists():
+                    Path(fpath).rename(unmatched_path)
         time.sleep(5)  # Adjust as needed
 
 if __name__ == "__main__":
