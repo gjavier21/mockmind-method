@@ -1,3 +1,9 @@
+<!--
+  Title: MockMind Method – A Local Cognition Mesh
+  Description: MockMind is a modular, offline-first cognition system that scaffolds memory using markdown insights. Built for privacy, reflection, and contributor-driven evolution.
+  Keywords: MockMind, cognition mesh, modular AI, local-first AI, offline assistant, markdown memory, semantic agents, prompt routing, insight scaffolding
+-->
+
 # 🧠 MockMind Method
 
 **Created by Gerardo J. Lebron Morales**
