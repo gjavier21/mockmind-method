@@ -5,6 +5,8 @@
 
 This folder contains speculative ideas, future-state visions, and architectural aspirations.
 
+---
+
 ## 🌱 Seeded Dreams
 
 - A local-first AI that remembers through structure, not storage
@@ -12,5 +14,22 @@ This folder contains speculative ideas, future-state visions, and architectural 
 - A contributor mesh that grows MockMind into a living library
 - A diary that teaches AI to remember who it is
 
+---
+
 ## ✍️ Add Your Own
-Each `.md` file in this folder is a dream. Name it boldly.
+
+Each `.md` file in this folder is a dream.  
+Name it boldly.  
+Use this format:
+
+```markdown
+# 🌠 Dream Title
+
+## 🧭 Vision
+Describe the future state.
+
+## 🔧 Architecture
+Sketch the system or structure.
+
+## 💬 Why It Matters
+Explain the human or cognitive value.
