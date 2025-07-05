@@ -11,7 +11,6 @@
 
 The user and system engaged in a wide-ranging, bilingual, and self-aware dialogue that included:
 
-- Stock data and market cap analysis (EVTC, Evertec)  
 - Profit-sharing structures and compensation strategies  
 - Auto-suggestion theory and high-traffic resources  
 - ACL validation agent design  
