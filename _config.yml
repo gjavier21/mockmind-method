@@ -10,3 +10,7 @@ nav:
     url: /ethics/
   - title: "Legal"
     url: /legal/
+  - title: "Agents"
+    url: /agents/
+  - title: "Engine"
+    url: /engine/
