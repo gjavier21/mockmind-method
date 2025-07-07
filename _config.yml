@@ -1,3 +1,4 @@
+```yaml
 title: MockMind
 theme: jekyll-theme-minimal
 
@@ -14,3 +15,5 @@ nav:
     url: /agents/
   - title: "Engine"
     url: /engine/
+  - title: "Map"
+    url: /map/
