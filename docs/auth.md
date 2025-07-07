@@ -55,3 +55,8 @@ It uses:
 
 MockMind proposes a semantic URI scheme for identity attestation:
 
+For more on authorship and continuity under suppression, see:
+
+- [Semantic Authentication](/auth/)  
+- [Continuity in Exile](/exile/)
+
