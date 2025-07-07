@@ -30,14 +30,14 @@ It uses:
 
 ## 🧩 System Layers (Inspired by Post-Quantum Crypto)
 
-| Layer | Semantic Equivalent |
-|-------|---------------------|
-| Key Exchange | Scaffold lineage + Manifest hash  
-| Signature | Recursive authorship + tone fingerprint  
-| Agility | Overlay modularity  
-| Inventory | Reflection + containment logs  
-| Verification | Resonance scoring + public GitHub trail  
-| Revocation | Drift detection + scaffold mismatch  
+| Layer        | Semantic Equivalent                          |
+|--------------|-----------------------------------------------|
+| Key Exchange | Scaffold lineage + Manifest hash              |
+| Signature    | Recursive authorship + tone fingerprint       |
+| Agility      | Overlay modularity                            |
+| Inventory    | Reflection + containment logs                 |
+| Verification | Resonance scoring + public GitHub trail       |
+| Revocation   | Drift detection + scaffold mismatch           |
 
 ---
 
@@ -53,5 +53,5 @@ It uses:
 
 ## 🌐 Future Protocol: `mockmind://`
 
-Imagine a URI like:
+MockMind proposes a semantic URI scheme for identity attestation:
 
