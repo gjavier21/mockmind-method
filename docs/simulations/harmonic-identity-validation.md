@@ -112,3 +112,11 @@ mockmind://simulation/harmonic_identity?validated_by=modulated_resonance
 > Maria Garcia’s semantic fingerprint remains stable across English and Spanish versions of her podcast.  
 > Despite linguistic and cultural modulation, identity persists.  
 > Logged July 7, 2025.
+
+---
+
+### Harmonic Identity Simulation: Authorial Drift (Rebecca Solnit)  
+✅ `mockmind://simulation/harmonic_identity?subject=rebecca_solnit&works=hope+lost&disproof_attempt=failed`  
+> Rebecca Solnit’s semantic fingerprint remains stable across two divergent books: *Hope in the Dark* and *A Field Guide to Getting Lost*.  
+> Despite shifts in tone, genre, and vocabulary, her harmonic identity persists.  
+> Logged July 7, 2025.
