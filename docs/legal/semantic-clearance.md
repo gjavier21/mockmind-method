@@ -28,3 +28,11 @@ This ledger tracks legal and ethical clearance for reflections, overlays, and co
 
 > This ledger is part of the [MockMind Method](https://gjavier21.github.io/mockmind-method/).  
 > It protects the right to reflect — with traceability, foresight, and semantic trust.
+### Legal Trigger Scope  
+
+---
+
+✅ `mockmind://legal/clearance?trigger_scope=0.00`  
+> This project does not trigger compliance obligations under HIPAA, PCI DSS, GDPR, or export control laws.  
+> No protected data is collected, stored, or processed.  
+> Reflection is authored, not harvested.
