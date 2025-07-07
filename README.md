@@ -76,6 +76,13 @@ Start with the 📂 [`/foundation/INDEX.md`](./foundation/INDEX.md) to explore t
 
 ---
 
+
+## 🧭 Canonical Manifest
+[Read the Canonical Manifest →](foundation/CANONICAL.md)
+
+
+---
+
 ## 🤝 Contribute Clarity
 
 MockMind is open to contributors who value thoughtful architecture. You don’t have to be an AI expert—just someone who believes ideas deserve structure.
