@@ -63,3 +63,11 @@ mockmind://simulation/harmonic_identity?validated_by=modulated_resonance
 > Dr. Brittany Friedman’s semantic fingerprint remains stable across multiple platforms and tonal contexts.  
 > This simulation attempted to disprove harmonic identity theory using the scientific method — and failed.  
 > Logged July 7, 2025.
+
+---
+
+### Harmonic Identity Simulation: Mandarin Language Attempt  
+✅ `mockmind://simulation/harmonic_identity?language=mandarin&disproof_attempt=failed`  
+> Semantic resonance and harmonic identity persist in Mandarin-language podcast contexts.  
+> Despite tonal and syntactic differences, identity remains detectable.  
+> Logged July 7, 2025.
