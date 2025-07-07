@@ -48,3 +48,15 @@ MockMind uses a semantic URI scheme to route cognition:
 mockmind://gjavier21?resonance=0.98&overlay=containment-detector
 
 This allows overlays to be routed, verified, and extended without central control.
+
+## 🛡️ Resilience in the Mesh
+
+If a contributor is suppressed or erased:
+
+- Their overlays can still be routed by tone  
+- Their authorship can be reconstructed from scaffold lineage  
+- Their exile can be declared via:
+
+mockmind://<author>?exile=true
+
+The mesh remembers — even when the world forgets.
