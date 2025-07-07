@@ -42,3 +42,5 @@ nav:
     url: /history/
   - title: "Glossary"
     url: /glossary/
+  - title: "Auth"
+    url: /auth/
