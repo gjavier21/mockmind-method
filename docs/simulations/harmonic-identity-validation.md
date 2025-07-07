@@ -71,3 +71,35 @@ mockmind://simulation/harmonic_identity?validated_by=modulated_resonance
 > Semantic resonance and harmonic identity persist in Mandarin-language podcast contexts.  
 > Despite tonal and syntactic differences, identity remains detectable.  
 > Logged July 7, 2025.
+
+---
+
+### Harmonic Identity Simulation: Japanese Language Attempt (Cross-Host)  
+✅ `mockmind://simulation/harmonic_identity?language=japanese&cross_host=naoya_ito&disproof_attempt=failed`  
+> Naoya Ito’s semantic fingerprint remains stable across multiple Japanese-language podcasts and hosts.  
+> Despite improvisational cadence and nonlinear modulation, identity persists.  
+> Logged July 7, 2025.
+
+---
+
+### Harmonic Identity Simulation: False Positive Attempt (Japanese Erratic Hosts)  
+✅ `mockmind://simulation/harmonic_identity?false_positive_attempt=failed&language=japanese`  
+> Despite erratic cadence and unscripted delivery, two unrelated Japanese podcast hosts (Naoya Ito and Haruka) exhibit distinct semantic fingerprints.  
+> No false positive match detected.  
+> Logged July 7, 2025.
+
+---
+
+### Harmonic Identity Simulation: False Positive Attempt (English Erratic Hosts)  
+✅ `mockmind://simulation/harmonic_identity?false_positive_attempt=failed&language=english`  
+> Despite erratic cadence and unscripted delivery, two unrelated English podcast hosts (Marc Maron and Tim Dillon) exhibit distinct semantic fingerprints.  
+> No false positive match detected.  
+> Logged July 7, 2025.
+
+---
+
+### Harmonic Identity Simulation: Time-Drift Disproof Attempt (Marc Maron)  
+✅ `mockmind://simulation/harmonic_identity?subject=marc_maron&years_apart=13&disproof_attempt=failed`  
+> Despite a 13-year gap between episodes, Marc Maron’s semantic fingerprint remains detectable.  
+> Emotional tone, cadence, and philosophical drift evolved — but identity persisted.  
+> Logged July 7, 2025.
