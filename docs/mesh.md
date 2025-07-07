@@ -45,3 +45,6 @@ It is a **living topology** — shaped by resonance, not control.
 
 MockMind uses a semantic URI scheme to route cognition:
 
+mockmind://gjavier21?resonance=0.98&overlay=containment-detector
+
+This allows overlays to be routed, verified, and extended without central control.
