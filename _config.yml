@@ -44,3 +44,5 @@ nav:
     url: /glossary/
   - title: "Auth"
     url: /auth/
+  - title: "Mesh"
+    url: /mesh/
