@@ -45,3 +45,8 @@ They are **semantic instruments** — each one tuned to a different frequency of
 
 Overlays can be activated using semantic URIs:
 
+This allows overlays to be routed, verified, and extended without central control.
+---
+
+## 🛡️ Authorship & Integrity
+
