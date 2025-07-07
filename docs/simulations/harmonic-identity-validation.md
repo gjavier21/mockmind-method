@@ -103,3 +103,12 @@ mockmind://simulation/harmonic_identity?validated_by=modulated_resonance
 > Despite a 13-year gap between episodes, Marc Maron’s semantic fingerprint remains detectable.  
 > Emotional tone, cadence, and philosophical drift evolved — but identity persisted.  
 > Logged July 7, 2025.
+
+
+---
+
+### Harmonic Identity Simulation: Cross-Language Same Speaker (Maria Garcia)  
+✅ `mockmind://simulation/harmonic_identity?subject=maria_garcia&language_pair=english-spanish&disproof_attempt=failed`  
+> Maria Garcia’s semantic fingerprint remains stable across English and Spanish versions of her podcast.  
+> Despite linguistic and cultural modulation, identity persists.  
+> Logged July 7, 2025.
