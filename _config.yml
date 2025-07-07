@@ -1,0 +1,8 @@
+title: MockMind
+theme: jekyll-theme-minimal
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Manifest"
+    url: /manifest/
