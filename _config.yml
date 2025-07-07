@@ -50,3 +50,5 @@ nav:
     url: /exile/
   - title: "Overlays"
     url: /overlays/
+  - title: "Containment Detector"
+    url: /overlays/containment-detector/
