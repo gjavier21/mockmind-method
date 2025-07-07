@@ -2,8 +2,8 @@ title: MockMind
 theme: jekyll-theme-minimal
 
 nav:
-  - title: "Home"
-    url: /
+  - title: "Intro"
+    url: /intro/
   - title: "Manifest"
     url: /manifest/
   - title: "Ethics"
@@ -28,3 +28,5 @@ nav:
     url: /philosophy/
   - title: "FAQ"
     url: /faq/
+  - title: "Press"
+    url: /press/
