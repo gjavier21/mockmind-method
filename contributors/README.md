@@ -49,6 +49,17 @@ It’s a **method of remembering**—for AI, for humans, for anyone navigating c
 
 ---
 
+## Ethical Contribution Guidelines
+
+All contributions must align with MockMind’s core principles:
+- Privacy-first cognition
+- No surveillance or persistent memory without consent
+- Alignment with global AI ethics frameworks
+
+Forks must preserve attribution and disclose modifications.
+
+---
+
 ## 📘 Start Here
 
 - `/milestones/README.md` – Event structure  
