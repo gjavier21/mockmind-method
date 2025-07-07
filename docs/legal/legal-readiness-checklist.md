@@ -57,3 +57,10 @@ This checklist helps ensure that reflections, overlays, and cognition logs publi
 
 > This checklist is part of the [MockMind Method](https://gjavier21.github.io/mockmind-method/).  
 > It protects the right to reflect — with clarity, foresight, and authorship.
+
+> ✅ Legal Clearance:  
+> `mockmind://legal/clearance?national_security=0.00`  
+>  
+> This reflection has been reviewed for national security risk.  
+> No classified data, foreign agent activity, or export-controlled content is present.  
+> Authorship is personal, modular, and unaffiliated.
