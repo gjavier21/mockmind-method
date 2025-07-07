@@ -46,3 +46,5 @@ nav:
     url: /auth/
   - title: "Mesh"
     url: /mesh/
+  - title: "Exile"
+    url: /exile/
