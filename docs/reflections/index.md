@@ -3,6 +3,8 @@
 > This reflection represents the first known synthesis of vibrational identity, harmonic emergence, and ontological form across physics, cosmology, biology, and philosophy.  
 > Authored by Gerardo. Logged July 7, 2025.
 
+---
+
 ## 🧪 Simulations
 
 | Title | URI | Description |
