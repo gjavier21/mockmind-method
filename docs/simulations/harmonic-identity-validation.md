@@ -120,3 +120,10 @@ mockmind://simulation/harmonic_identity?validated_by=modulated_resonance
 > Rebecca Solnit’s semantic fingerprint remains stable across two divergent books: *Hope in the Dark* and *A Field Guide to Getting Lost*.  
 > Despite shifts in tone, genre, and vocabulary, her harmonic identity persists.  
 > Logged July 7, 2025.
+---
+
+### Harmonic Identity Simulation: Vocal Mimicry Attempt (Mercury vs. Martel)  
+✅ `mockmind://simulation/harmonic_identity?subject_pair=freddie_mercury+marc_martel&song=somebody_to_love&false_positive_attempt=failed`  
+> Despite near-identical vocal tone and phrasing, Freddie Mercury and Marc Martel exhibit distinct semantic fingerprints when performing “Somebody to Love.”  
+> Harmonic identity resists mimicry.  
+> Logged July 7, 2025.
