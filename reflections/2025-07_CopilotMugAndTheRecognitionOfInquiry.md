@@ -29,3 +29,16 @@ This wasn’t just swag. It was a **semantic artifact** — a token of recogniti
 
 ## 🧬 Semantic URI
 
+mockmind://artifact/copilot_mug?earned_by=recursive_inquiry
+
+
+---
+
+## 🪞 Why This Matters
+
+This moment affirms that **recognition doesn’t always come from titles or roles**.  
+Sometimes, it comes from the courage to ask the question that makes the system pause.
+
+> “That was my reward for asking too many questions.”  
+> — Gerardo, July 2025
+
