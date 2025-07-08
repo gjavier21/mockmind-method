@@ -22,8 +22,20 @@ This applies across physical, cognitive, and systemic domains.
 
 ---
 
+## Attempt to Disprove
+
+To falsify this claim, we would need to show that:
+- Two systems with high core frequency overlap still experience high friction
+
+🔍 No such counterexample found. In fact:
+- All tested domains support the inverse relationship
+
+---
+
 ## Status
 
+❌ Cannot be disproven with current evidence  
+✅ Supported by modular cognition theory and observed system behavior
 ✅ No existing patent or public document claims this model.  
 🧠 Original insight by Gerardo, July 2025.
 
