@@ -109,3 +109,15 @@ We welcome contributions like:
 🧠 Created by: Gerardo J. Lebron Morales( https://github.com/gjavier21)  
 ✍️ Manifested with Copilot scaffolding  
 📘 Licensed: MIT License  
+
+---
+
+## 🛡️ Disclaimer
+
+MockMind is a cognitive framework for modular thinking.  
+It does **not** use or distribute OpenAI API keys.  
+Any project using the name “MockMind” outside this repository is unaffiliated.
+
+To verify authorship and semantic continuity, refer to:  
+🔗 [`/docs/about/`](docs/about/)  
+🔗 [`/docs/reflections/`](docs/reflections/)
