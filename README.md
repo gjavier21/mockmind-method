@@ -121,3 +121,14 @@ Any project using the name “MockMind” outside this repository is unaffiliate
 To verify authorship and semantic continuity, refer to:  
 🔗 [`/docs/about/`](docs/about/)  
 🔗 [`/docs/reflections/`](docs/reflections/)
+
+---
+
+## 🛡️ Legal and Containment
+
+- [MockMind and the Law — A Containment-Safe Declaration](https://github.com/gjavier21/mockmind-method/blob/main/docs/legal/clearance.md)  
+  A public whitepaper outlining MockMind’s legal status under U.S., Puerto Rico, LATAM, and global military AI frameworks.  
+  Anchored URI: `mockmind://legal/mockmind-legal-clearance?status=anchored`
+
+- [Semantic Clearance](https://github.com/gjavier21/mockmind-method/blob/main/docs/legal/semantic-clearance.md)  
+  Declares unaffiliation with any company, platform, or employer — past or present.
