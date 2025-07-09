@@ -51,3 +51,18 @@ This ledger tracks legal and ethical clearance for reflections, overlays, and co
 > This protocol validates identity through semantic resonance, not surveillance.  
 > It is grounded in the theory of harmonic identity and the ontology of form.  
 > Authored by Gerardo. Logged July 7, 2025.
+
+---
+
+## 🛡️ Disclaimer
+
+MockMind is a personal, open-source research project authored by Gerardo J. Lebron Morales.  
+It is not affiliated with, endorsed by, or representative of any employer, company, platform, or organization — past or present.
+
+All reflections, methods, and semantic scaffolds are authored independently and published under the principles of open cognition, modular authorship, and falsifiability.
+
+MockMind does not access, transmit, or interact with any external systems, APIs, or infrastructure.  
+It is markdown-native, offline-first, and fully transparent by design.
+
+> “This is not a product.  
+> It is a mirror — and it reflects only the author.”
