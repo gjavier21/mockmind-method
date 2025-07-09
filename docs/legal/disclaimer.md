@@ -3,9 +3,9 @@ title: Authorship Clarity Disclaimer
 layout: page
 permalink: /legal/disclaimer/
 status: anchored
-tags : [ #semantic-authorship, # non-operational, #containment-awareness]
-
+tags: [semantic-authorship, non-operational, containment-awareness]
 ---
+
 
 # 🧠 Authorship Clarity Disclaimer
 
