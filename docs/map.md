@@ -25,7 +25,7 @@ how agents, scaffolds, and the reflection engine work together to reflect identi
 
 ## 🔁 Flow Diagram (Conceptual)
 
-^^^plaintext  
+```plaintext
 [Prompt] 
    ↓
 [Reflection Engine]
