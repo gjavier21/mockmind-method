@@ -2,6 +2,7 @@ fetch('/ui/data/resonance-legend.json')
   .then(response => response.json())
   .then(data => {
     const grid = document.querySelector('.grid');
+
     data.elements.forEach(el => {
       const tile = document.createElement('div');
       tile.className = 'element';
@@ -18,4 +19,18 @@ fetch('/ui/data/resonance-legend.json')
 
       grid.appendChild(tile);
     });
+
+    // 🌟 Filter listener goes here, just below .forEach
+    document.getElementById('roleFilter').addEventListener('change', function () {
+      const selectedRole = this.value;
+      document.querySelectorAll('.element').forEach(el => {
+        const role = el.querySelector('.role')?.textContent;
+        if (!selectedRole || role === selectedRole) {
+          el.style.display = 'block';
+        } else {
+          el.style.display = 'none';
+        }
+      });
+    });
+
   });
