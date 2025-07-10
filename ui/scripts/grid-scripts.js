@@ -55,6 +55,34 @@ const modalNotes = document.getElementById('modalNotes');
 const closeBtn = document.querySelector('.close-btn');
 const copyBtn = document.getElementById('copyURI');
 const uriOutput = document.getElementById('uriOutput');
+const tagModal = document.getElementById('tag-modal');
+const tagInput = document.getElementById('tagInput');
+const emotionInput = document.getElementById('emotionInput');
+const tagOutput = document.getElementById('tagUriOutput');
+const closeTagBtn = document.querySelector('.close-btn-tag');
+const genTagBtn = document.getElementById('generateTagURI');
+
+document.querySelectorAll('.element').forEach(tile => {
+  tile.addEventListener('contextmenu', (e) => {
+    e.preventDefault();
+    tagModal.classList.remove('hidden');
+    tagModal.setAttribute('data-symbol', tile.getAttribute('data-symbol'));
+  });
+});
+
+closeTagBtn.addEventListener('click', () => {
+  tagModal.classList.add('hidden');
+  tagInput.value = '';
+  emotionInput.value = '';
+});
+
+genTagBtn.addEventListener('click', () => {
+  const symbol = tagModal.getAttribute('data-symbol');
+  const tag = encodeURIComponent(tagInput.value);
+  const emotion = encodeURIComponent(emotionInput.value);
+  const uri = `mockmind://tag/${symbol}?semantic=${tag}&tone=${emotion}`;
+  tagOutput.textContent = uri;
+});
 
 // Trigger modal on tile click
 document.querySelectorAll('.element').forEach(tile => {
