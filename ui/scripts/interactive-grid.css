@@ -1,0 +1,19 @@
+#filter-controls {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #ffd700;
+}
+
+#filter-controls label {
+  font-weight: bold;
+}
+
+#roleFilter {
+  padding: 0.5rem;
+  border-radius: 6px;
+  background: #222;
+  color: #ffd700;
+  border: 1px solid #444;
+}
