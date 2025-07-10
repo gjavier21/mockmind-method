@@ -9,6 +9,9 @@ fetch('/ui/data/resonance-legend.json')
       tile.style.backgroundColor = el.color;
       tile.setAttribute('data-symbol', el.symbol);
       tile.setAttribute('data-frequency', el.frequency);
+      tile.addEventListener('click', () => {
+  playTone(parseFloat(tile.getAttribute('data-frequency')), 1);
+});
 
       tile.innerHTML = `
         <span class="symbol">${el.symbol}</span>
