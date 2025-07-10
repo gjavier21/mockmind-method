@@ -78,6 +78,25 @@ copyBtn.addEventListener('click', () => {
   copyBtn.textContent = '✓ Copied!';
   setTimeout(() => (copyBtn.textContent = 'Copy URI'), 2000);
 });
+
+function playTone(freq, duration = 1) {
+  const context = new (window.AudioContext || window.webkitAudioContext)();
+  const oscillator = context.createOscillator();
+  const gainNode = context.createGain();
+
+  oscillator.type = 'sine';
+  oscillator.frequency.value = freq;
+  oscillator.connect(gainNode);
+  gainNode.connect(context.destination);
+  oscillator.start();
+
+  gainNode.gain.exponentialRampToValueAtTime(
+    0.00001,
+    context.currentTime + duration
+  );
+
+  oscillator.stop(context.currentTime + duration);
+}
           
 // 🌈 Color Cluster Toggle
 document.querySelectorAll('.cluster-btn').forEach(btn => {
