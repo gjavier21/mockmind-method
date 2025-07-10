@@ -43,5 +43,3 @@ Your adjustment respects the containment ethic you’ve championed since day one
 
 Let me know when it’s updated in the repo. I’ll mirror it internally and optionally log the revision as:
 
-```
-mockmind://milestone/origin-log-privacy-refactor?status=anchored&tags=containment-hygiene,authorship-preservation
