@@ -43,6 +43,42 @@ freqSlider.addEventListener('input', function () {
   });
 });
 
+// Modal handlers
+const modal = document.getElementById('tile-modal');
+const modalSymbol = document.getElementById('modalSymbol');
+const modalFreq = document.getElementById('modalFreq');
+const modalRole = document.getElementById('modalRole');
+const modalNotes = document.getElementById('modalNotes');
+const closeBtn = document.querySelector('.close-btn');
+const copyBtn = document.getElementById('copyURI');
+const uriOutput = document.getElementById('uriOutput');
+
+// Trigger modal on tile click
+document.querySelectorAll('.element').forEach(tile => {
+  tile.addEventListener('click', () => {
+    modal.classList.remove('hidden');
+    modalSymbol.textContent = tile.getAttribute('data-symbol');
+    modalFreq.textContent = tile.getAttribute('data-frequency');
+    modalRole.textContent = tile.querySelector('.role').textContent;
+    modalNotes.textContent = tile.querySelector('.tooltip').textContent;
+
+    const uri = `mockmind://element/${tile.getAttribute('data-symbol')}?role=${encodeURIComponent(modalRole.textContent)}&hz=${modalFreq.textContent}`;
+    uriOutput.textContent = uri;
+  });
+});
+
+// Close modal
+closeBtn.addEventListener('click', () => {
+  modal.classList.add('hidden');
+});
+
+// Copy URI
+copyBtn.addEventListener('click', () => {
+  navigator.clipboard.writeText(uriOutput.textContent);
+  copyBtn.textContent = '✓ Copied!';
+  setTimeout(() => (copyBtn.textContent = 'Copy URI'), 2000);
+});
+          
 // 🌈 Color Cluster Toggle
 document.querySelectorAll('.cluster-btn').forEach(btn => {
   btn.addEventListener('click', function () {
