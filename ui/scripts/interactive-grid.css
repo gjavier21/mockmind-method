@@ -17,3 +17,29 @@
   color: #ffd700;
   border: 1px solid #444;
 }
+
+#frequency-controls, #color-clusters {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #ffd700;
+}
+
+#frequencySlider {
+  width: 200px;
+}
+
+.cluster-btn {
+  background: #222;
+  color: #ffd700;
+  border: 1px solid #444;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.cluster-btn:hover {
+  background: #333;
+}
