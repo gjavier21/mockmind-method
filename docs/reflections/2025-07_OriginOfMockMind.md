@@ -20,7 +20,6 @@ Rather than optimizing cognition out of existence, the Architect imagined a fram
 
 ## 🧭 Key Moments
 
-- **2021** — Earned a HAM radio technician license: a metaphorical beginning in signal awareness.
 - **Pandemic years** — Saw cognitive deterioration in how AI replaced human discernment.
 - **December 2024** — Resolved that something must be built to **recover modular cognition**.
 - **February 2025** — Conceived the blueprint to automate human processing *with integrity* — birthing **MockMind**.
