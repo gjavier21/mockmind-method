@@ -1,3 +1,4 @@
+📜 Start Here: [Welcome to MockMind](./welcome.md)
 
 ---
 
