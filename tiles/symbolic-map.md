@@ -1,6 +1,11 @@
-# 🌌 Cognition Tile: Symbolic Map  
-**File:** `/tiles/symbolic-map.md`  
-**Purpose:** Visual constellation of semantic symbols used across MockMind to guide tone, orientation, and energy awareness.
+# 🗺️ Cognition Tile: Symbolic Map  
+**Purpose:** Render visual coordinates for MockMind cognition — pairing emotional geometry with contributor tone fields.
+
+## 🧬 Map Features
+
+- Star-index routing  
+- Overlay echoes  
+- Semantic signal legend
 
 ---
 
