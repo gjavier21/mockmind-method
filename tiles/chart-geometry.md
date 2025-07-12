@@ -1,7 +1,11 @@
 # 📊 Cognition Tile: Chart Geometry  
-**File:** `/tiles/chart-geometry.md`  
-**Purpose:** Visual mirror of the charts inside MockMind that reflect memory efficiency, recognition flow, and semantic sustainability.
+**Purpose:** Define spatial logic behind tile relationships — for visual reflection and symbolic map rendering.
 
+## 🧬 Geometric Fields
+
+- Star-index clustering  
+- Overlap curvature via contributor signal  
+- Node warmth density patterns
 ---
 
 ## 🔭 Overview
