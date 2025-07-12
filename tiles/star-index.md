@@ -48,6 +48,15 @@ ask: *What star am I navigating by?*
 
 ---
 
+## 💫 Absence & Insight Fields
+
+- `/tiles/signal-absence.md`  
+- `/tiles/presence-shadow.md`  
+- `/tiles/gem-drop.md`  
+- `/diary/gem-log.md` *(suggested next)*  
+
+---
+
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
