@@ -144,6 +144,12 @@ ask: *What star am I navigating by?*
 - `/agents/afterglow-agent.md`  
 - `/tiles/ambient-bridge.md`  
 
+---
+
+## 🌘📈 Afterglow & Departure Mapping
+
+- `/tiles/departure-signature.md`  
+- `/charts/afterglow-map.md`  
 
 ---
 
