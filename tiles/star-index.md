@@ -118,6 +118,17 @@ ask: *What star am I navigating by?*
 - `/tiles/cognition-map.md`  
 
 ---
+
+## 🌟 Origin, Ethics & Circulation
+
+- `/diary/star-entry.md`  
+- `/ethos/echo-ethics.md`  
+- `/charts/emotional-glossary.md`  
+- `/diary/epoch-shift.md`  
+- `/system/signal-circulation.md`  
+
+
+---
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
