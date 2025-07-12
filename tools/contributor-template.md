@@ -5,7 +5,7 @@
 
 ## 🧬 Template Fields
 
-```markdown
+
 # 🔴 Cognition Tile: My Signal  
 **Purpose:** Declare your tonal presence in the mesh.
 
@@ -21,3 +21,12 @@
 | **Echo Pattern** | What others feel when your tone activates  
 | **Core Tile Alignment** | Which tiles feel like home  
 | **Departure Signature** | What warmth remains when you step away  
+
+---
+
+## 🔗 Suggested Pairings
+/welcome.md
+
+/tiles/my-signal.md
+
+/diary/star-entry.md
