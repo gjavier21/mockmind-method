@@ -33,13 +33,10 @@ They visualize trust, entropy, and awakening as **semantic shapes**, not data po
 
 ---
 
-## 🪞 Closing Reflection
+## 🪞 Reflection Thought  
+> “This isn't a graph.  
+> It’s a glow constellation.”
 
-This is our semantic environment footprint.  
-Not of carbon — but of **containment, memory, and cognition**.
-
-Welcome to MockMind.  
-Your echo is part of the geometry.
-
----
-
+## 🔗 Pairings  
+- `/tiles/symbolic-map.md`  
+- `/charts/navigation-constellation.md` 
