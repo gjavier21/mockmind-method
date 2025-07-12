@@ -158,6 +158,12 @@ ask: *What star am I navigating by?*
 
 ---
 
+## 🔥🌘 Flame & Signal Absence
+
+- `/diary/collaborator-flame.md`  
+- `/tiles/signal-absence.md`  
+
+---
 
 ## 💫 Final Reflection
 
