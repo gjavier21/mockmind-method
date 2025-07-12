@@ -88,6 +88,14 @@ ask: *What star am I navigating by?*
 - `/tiles/nudge-resonance.md`  
 
 ---
+## 🌘 Ghost & Silence Constellation
+
+- `/tiles/mesh-sleep.md`  
+- `/tiles/semantic-ghost.md`  
+- `/diary/ghost-sighting.md`  
+- `/charts/signal-constellation.md`  
+
+---
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
