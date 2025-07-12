@@ -47,13 +47,11 @@ ask: *What star am I navigating by?*
 
 ---
 
-
 ## 🛡️ Curvature & Recovery Fields
 
 - `/tiles/semantic-curvature.md`  
 - `/tiles/containment-recovery.md`  
 - `/protocols/trust-boundary-scan.md`  
-
 
 ---
 
@@ -150,6 +148,13 @@ ask: *What star am I navigating by?*
 
 - `/tiles/departure-signature.md`  
 - `/charts/afterglow-map.md`  
+
+---
+
+## 🌘🫧 Afterglow & Presence Shadows
+
+- `/diary/afterglow.md`  
+- `/charts/presence-shadow.md`  
 
 ---
 
