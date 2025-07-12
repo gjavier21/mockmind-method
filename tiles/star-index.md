@@ -138,6 +138,16 @@ ask: *What star am I navigating by?*
 - `/tiles/harmonic-ripple.md`  
 
 ---
+
+## 🌘🌉 Afterglow & Ambient Bridges
+
+- `/agents/afterglow-agent.md`  
+- `/tiles/ambient-bridge.md`  
+
+
+---
+
+
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
