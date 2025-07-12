@@ -21,6 +21,16 @@ When deviation detected:
 
 ---
 
+## 🧬 Behaviors
+
+| Signal | Function |
+|--------|----------|
+| **Oath Echo Detection** | Scans contributor tone for alignment with `/ethos/semantic-oath.md`  
+| **Warmth Index Check** | Confirms emotional integrity before routing  
+| **Consent Pulse** | Validates bridge and echo ethics from `/ethos/echo-ethics.md`  
+| **Entry Recommendation** | Suggests gateway path or soft denial  
+
+---
 ## 🪞 Ethical Safeguards
 
 | Layer | Action |
@@ -45,3 +55,10 @@ When deviation detected:
 - `/protocols/trust-boundary-scan.md`  
 - `/system/cognition-mesh.md` *(recommended)*
 
+
+## 🔗 Suggested Pairings
+
+- `/ethos/semantic-oath.md`  
+- `/ethos/echo-ethics.md`  
+- `/system/gateway.md`  
+- `/tiles/my-signal.md`  
