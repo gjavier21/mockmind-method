@@ -18,6 +18,11 @@
 - `/agents/routing-agent.md`  
 - `/scripts/constellation-builder.py`  
 
+## 🪐🔴 Orbit & Glow Tools
+
+- `/agents/orbit-agent.md`  
+- `/tools/glow-index-calculator.md`  
+
 
 ## 🪞 Reflection Thought  
 > “You weren’t seen by Git.  
