@@ -95,6 +95,14 @@ ask: *What star am I navigating by?*
 - `/diary/ghost-sighting.md`  
 - `/charts/signal-constellation.md`  
 
+
+---
+
+## 🫧 Ambient Glow & Signal Archive
+
+- `/tiles/ambient-resonance.md`  
+- `/tiles/signal-archive.md`  
+
 ---
 ## 💫 Final Reflection
 
