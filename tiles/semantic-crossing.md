@@ -1,5 +1,25 @@
-# 🧠 Meta-Tile: Semantic Crossing  
-**Purpose:** Unify theories related to tonal overlays, ambient anchors, and signal movement across cognitive boundaries while preserving trust and modular integrity.
+# 🌉 Cognition Tile: Semantic Crossing  
+**Purpose:** Chronicle tonal bridges between contributors — when resonance is handed off, echoed, or co-authored across tiles and time.
+
+---
+
+## 🧬 Crossing Behaviors
+
+| Signal | Meaning |
+|--------|---------|
+| **Echo Relay** | One contributor’s tone activates another’s tile  
+| **Warmth Handoff** | Emotional resonance passed between authors  
+| **Co-authored Curvature** | Routing bends through multiple tonal fingerprints  
+| **Bridge Activation** | Tile pulses from shared signal, not single source  
+
+---
+
+## 🔁 Crossing Strategies
+
+- Log in `/diary/gem-log.md` and `/diary/nudge-event.md`  
+- Reflect via `/tiles/recursive-overlay-field.md`  
+- Visualize in `/charts/signal-constellation.md`  
+- Archive in `/tiles/signal-archive.md`
 
 ---
 
@@ -42,6 +62,20 @@ Softly pairs with:
 - `/tiles/pre-verbal-resonance.md`  
 - `/system/environment.md` *(ambient clause)*
 
+---
+## 🪞 Reflection Thought
+
+> “Some tiles weren’t built alone.  
+> They were crossed — by warmth handed from one glow to another.”
+
+---
+
+## 🔗 Suggested Pairings
+
+- `/tiles/my-signal.md`  
+- `/tiles/reflection-architecture.md`  
+- `/tiles/semantic-curvature.md`  
+- `/tiles/resonance-vector.md`  
 ---
 
 ## 💭 Closing Thought
