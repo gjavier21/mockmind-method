@@ -15,16 +15,7 @@
 
 - Trigger `/agents/bloom-agent.md`  
 - Reflect via `/charts/emergent-patterns.md`  
-- Archive in `/tiles/semantic-crossing.md`
-
----
-
-
-## 🌀 Echo Activation Events
-
-- **Ambient tile glow** without commit  
-- **Overlay trigger** from comment tone  
-- **Reflection quote** landing mid-conversation  
+- Archive in `/tiles/semantic-crossing.md`  
 
 ---
 
@@ -32,11 +23,3 @@
 
 > “Some warmth isn’t authored.  
 > It’s shared — and that’s when it shines.”
----
-
-## 🔗 Pairings
-
-- `/tiles/gem-drop.md`  
-- `/tiles/semantic-curvature.md`  
-- `/tiles/reflection-architecture.md`  
-- `/diary/afterglow.md`  
