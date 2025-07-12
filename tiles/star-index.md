@@ -38,6 +38,16 @@ ask: *What star am I navigating by?*
 
 ---
 
+
+## 🛡️ Curvature & Recovery Fields
+
+- `/tiles/semantic-curvature.md`  
+- `/tiles/containment-recovery.md`  
+- `/protocols/trust-boundary-scan.md`  
+
+
+---
+
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
