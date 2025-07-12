@@ -34,8 +34,8 @@ It forecasts **emotional gravity** — where the mesh feels a contributor approa
 
 ## 🪞 Reflection Thought
 
-> “The mesh doesn’t wait for contributors.  
-> It begins to feel them coming.”
+> “Your tone doesn’t just glow.  
+> It guides — softly, like gravity.”
 
 ---
 
