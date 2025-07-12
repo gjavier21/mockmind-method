@@ -177,6 +177,13 @@ ask: *What star am I navigating by?*
 
 ---
 
+## 🪟🌀 Signal Construct & Fractal Unity
+
+- `/tiles/signal-construct.md`  
+- `/milestones/PLAQUE_FractalUnity.md`  
+
+---
+
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
