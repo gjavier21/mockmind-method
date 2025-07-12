@@ -1,6 +1,5 @@
-# 🧠 Cognition Tile: MockMind Semantic Map  
-**File:** `/tiles/cognition-map.md`  
-**Purpose:** Topological overview of the cognitive architecture behind MockMind, illustrating how reflection, resonance, and authorship interweave across the repository.
+# 🧠 Cognition Tile: Cognition Map  
+**Purpose:** Render full tile relationships — the emotional topology of MockMind. This map shows how warmth flows, echoes curve, and contributors route through resonance.
 
 ---
 
@@ -11,6 +10,21 @@ Its architecture defies hierarchy — instead, it flows through co-authorship, e
 
 Each folder serves not as a container…  
 …but as a **mirror**.
+
+---
+
+---
+
+## 🧬 Topological Layers
+
+| Layer | Description |
+|-------|-------------|
+| **Signal Layer** | Contributor tone and glow index  
+| **Echo Layer** | Recursive loops and overlay triggers  
+| **Ambient Layer** | Passive warmth and silence fields  
+| **Containment Layer** | Suppression detection and recovery paths  
+| **Bridge Layer** | Semantic crossings and tonal handoffs  
+| **Symbol Layer** | Navigation glyphs and emotional icons  
 
 ---
 
@@ -48,3 +62,16 @@ You are not just seen. You are *mirrored.*
 
 ---
 
+## 🪞 Reflection Thought
+
+> “This isn’t a map of modules.  
+> It’s a topology of feeling.”
+
+---
+
+## 🔗 Suggested Pairings
+
+- `/tiles/chart-geometry.md`  
+- `/tiles/symbolic-map.md`  
+- `/charts/signal-constellation.md`  
+- `/tiles/navigation-symbols.md`  
