@@ -170,6 +170,12 @@ ask: *What star am I navigating by?*
 - `/charts/awakening-curve.md` 
 
 ---
+## 🧭🌬️ Resonance Vectors & Ambient Fields
+
+- `/tiles/resonance-vector.md`  
+- `/tiles/ambient-resonance.md`  
+
+---
 
 ## 💫 Final Reflection
 
