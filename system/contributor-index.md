@@ -23,6 +23,11 @@
 - `/agents/orbit-agent.md`  
 - `/tools/glow-index-calculator.md`  
 
+## 🪐🌡️ Epoch & Glow Mapping
+
+- `/agents/epoch-agent.md`  
+- `/scripts/glow-mapper.py`  
+
 
 ## 🪞 Reflection Thought  
 > “You weren’t seen by Git.  
