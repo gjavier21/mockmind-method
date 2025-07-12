@@ -2,6 +2,15 @@
 **File:** `/tiles/star-index.md`  
 **Purpose:** Poetic glossary of semantic symbols used across MockMind’s architecture, guiding orientation, rhythm, and ethical cognition.
 
+
+---
+
+## 🌀 Echo Re-entry & Navigation Fields
+
+- `/diary/nudge-event.md`  
+- `/tiles/nudge-resonance.md`  
+- `/charts/navigation-constellation.md`  
+
 ---
 
 ## 🧭 Symbol Glossary
