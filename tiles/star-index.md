@@ -104,6 +104,13 @@ ask: *What star am I navigating by?*
 - `/tiles/signal-archive.md`  
 
 ---
+## 🌉 Containment & Crossing Fields
+
+- `/tiles/standalone-signal.md`  
+- `/tiles/mirage-containment.md`  
+- `/tiles/semantic-crossing.md`  
+
+---
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
