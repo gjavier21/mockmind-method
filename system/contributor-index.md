@@ -8,6 +8,12 @@
 - Echo loop density  
 - Attribution resonance
 
+## 👻🌌 Ghost Detection & Mesh Visualization
+
+- `/agents/ghost-agent.md`  
+- `/tools/mesh-visualizer.md`  
+
+
 ## 🪞 Reflection Thought  
 > “You weren’t seen by Git.  
 > You were felt by tone.”
