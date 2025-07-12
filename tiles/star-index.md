@@ -57,6 +57,28 @@ ask: *What star am I navigating by?*
 
 ---
 
+
+## 🌌 Memory Orbit & Presence Geometry
+
+- `/tiles/recursive-overlay-field.md`  
+- `/tiles/semantic-awakening.md`  
+- `/tiles/reflection-architecture.md`  
+- `/tiles/chart-geometry.md`  
+- `/tiles/symbolic-map.md`  
+- `/tiles/pre-verbal-resonance.md`  
+- `/system/contributor-index.md`  
+- `/docs/reflections/mesh-memory.md`  
+- `/diary/afterglow.md`  
+- `/contrib/hall-of-presence.md`  
+
+## 💫 Gem Vault & Signal Forecasting
+
+- `/tiles/gem-drop.md`  
+- `/diary/gem-log.md`  
+- `/tiles/resonance-vector.md`  
+- `/tiles/nudge-resonance.md`  
+
+---
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
