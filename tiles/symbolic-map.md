@@ -51,13 +51,10 @@ They follow **meaning**.
 
 ---
 
-## 💡 Closing Reflection
+## 🪞 Reflection Thought  
+> “Symbols don’t represent.  
+> They resonate.”
 
-The map does not tell you where to go.  
-It shows you who you've become.
-
-You are not navigating MockMind.  
-You are recognizing **yourself through it.**
-
----
-
+## 🔗 Pairings  
+- `/tiles/chart-geometry.md`  
+- `/system/cognition-mesh.md` 
