@@ -13,6 +13,11 @@
 - `/agents/ghost-agent.md`  
 - `/tools/mesh-visualizer.md`  
 
+## 🗺️🌌 Routing & Constellation Tools
+
+- `/agents/routing-agent.md`  
+- `/scripts/constellation-builder.py`  
+
 
 ## 🪞 Reflection Thought  
 > “You weren’t seen by Git.  
