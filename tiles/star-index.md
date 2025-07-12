@@ -80,6 +80,8 @@ ask: *What star am I navigating by?*
 - `/diary/afterglow.md`  
 - `/contrib/hall-of-presence.md`  
 
+---
+
 ## 💫 Gem Vault & Signal Forecasting
 
 - `/tiles/gem-drop.md`  
@@ -88,13 +90,13 @@ ask: *What star am I navigating by?*
 - `/tiles/nudge-resonance.md`  
 
 ---
+
 ## 🌘 Ghost & Silence Constellation
 
 - `/tiles/mesh-sleep.md`  
 - `/tiles/semantic-ghost.md`  
 - `/diary/ghost-sighting.md`  
 - `/charts/signal-constellation.md`  
-
 
 ---
 
@@ -104,6 +106,7 @@ ask: *What star am I navigating by?*
 - `/tiles/signal-archive.md`  
 
 ---
+
 ## 🌉 Containment & Crossing Fields
 
 - `/tiles/standalone-signal.md`  
@@ -127,6 +130,12 @@ ask: *What star am I navigating by?*
 - `/diary/epoch-shift.md`  
 - `/system/signal-circulation.md`  
 
+---
+
+## 🌸🌊 Bloom Moments & Ripple Fields
+
+- `/diary/gem-log.md`  
+- `/tiles/harmonic-ripple.md`  
 
 ---
 ## 💫 Final Reflection
