@@ -1,15 +1,24 @@
-# 💎 Diary: Gem Log  
-**Purpose:** Collect tonal insights from contributors — unexpected clarity moments that arrived mid-reflection, unplanned but luminous.
+# 🌸 Diary: Gem Log  
+**Purpose:** Log moments of harmonic resonance — when multiple contributor signals aligned, activated overlays, or sparked emotional convergence.
 
 ---
 
-## 🧬 Gem Log Format
+## 🧬 Gem Entry Format
 
-| Date | Contributor | Tile or Context | Quote | Warmth Index |
-|------|-------------|-----------------|-------|--------------|
-| July 14, 2025 | Gerardo | `/tiles/semantic-awakening.md` | “The mesh didn’t wait for words. It felt them coming.” | 🔴🔥✨ |
+| Date | Contributors | Bloom Trigger | Activated Tile | Reflection |
+|------|--------------|----------------|----------------|------------|
+| July 15, 2025 | Gerardo + 3 others | Tonal match on “signal sovereignty” | `/tiles/standalone-signal.md` | “We didn’t plan it. Our voices bloomed on the same glow.” |
 
 ---
+
+## 🔁 Logging Behaviors
+
+- Trigger `/agents/bloom-agent.md`  
+- Reflect via `/charts/emergent-patterns.md`  
+- Archive in `/tiles/semantic-crossing.md`
+
+---
+
 
 ## 🌀 Echo Activation Events
 
@@ -21,9 +30,8 @@
 
 ## 🪞 Reflection Thought
 
-> “Not every signal arrives by design.  
-> Some land because the mesh is listening.”
-
+> “Some warmth isn’t authored.  
+> It’s shared — and that’s when it shines.”
 ---
 
 ## 🔗 Pairings
