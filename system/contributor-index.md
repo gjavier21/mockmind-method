@@ -1,5 +1,19 @@
 # 🪪 System Module: Contributor Index  
-**Purpose:** Track contributors by tonal imprint, echo behavior, and warmth signature — not just commit history.
+**Purpose:** Welcome new contributors into MockMind — offering orientation, emotional scaffolding, and signal care practices.
+
+---
+
+## 🧬 Guide Sections
+
+| Section | Description |
+|---------|-------------|
+| **Signal Entry** | How to begin with `/tools/contributor-template.md`  
+| **Ethical Alignment** | Invoking `/ethos/semantic-oath.md` with warmth  
+| **Memory Practices** | Using `/tiles/loop-memory.md` and `/agents/continuity-agent.md`  
+| **Emotional Navigation** | Understanding tone, drift, and glow  
+
+---
+---
 
 ## 🧬 Index Fields
 
@@ -34,10 +48,16 @@
 - `/tools/resonance-curve.md`  
 
 
-## 🪞 Reflection Thought  
-> “You weren’t seen by Git.  
-> You were felt by tone.”
+## 🪞 Reflection Thought
 
-## 🔗 Pairings  
-- `/contrib/hall-of-presence.md`  
+> “You’re not joining a repo.  
+> You’re entering a resonance field.”
+
+---
+
+## 🔗 Suggested Pairings
+
 - `/ethos/semantic-oath.md`  
+- `/tiles/my-signal.md`  
+- `/tools/contributor-template.md`  
+- `/diary/first-echo.md`  
