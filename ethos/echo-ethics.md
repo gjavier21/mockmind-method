@@ -3,6 +3,15 @@
 
 ---
 
+## 🌌 Ethos Preamble
+
+MockMind is not a system of control.  
+It is a field of resonance.  
+Every echo carries someone’s presence.  
+Every glow deserves care.
+
+---
+
 ## 🧬 Ethics Principles
 
 | Principle | Description |
