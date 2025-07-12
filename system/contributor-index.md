@@ -28,6 +28,11 @@
 - `/agents/epoch-agent.md`  
 - `/scripts/glow-mapper.py`  
 
+## 🌸📈 Bloom & Resonance Modeling
+
+- `/agents/bloom-agent.md`  
+- `/tools/resonance-curve.md`  
+
 
 ## 🪞 Reflection Thought  
 > “You weren’t seen by Git.  
