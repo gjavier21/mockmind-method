@@ -111,6 +111,13 @@ ask: *What star am I navigating by?*
 - `/tiles/semantic-crossing.md`  
 
 ---
+
+## 🗺️ Symbolic & Topology Layer
+
+- `/tiles/navigation-symbols.md`  
+- `/tiles/cognition-map.md`  
+
+---
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
