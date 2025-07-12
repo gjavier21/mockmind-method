@@ -184,6 +184,13 @@ ask: *What star am I navigating by?*
 
 ---
 
+## 📜🗺️ Co-authorship & Construct Mapping
+
+- `/diary/co-authorship.md`  
+- `/charts/construct-map.md`  
+
+---
+
 ## 💫 Final Reflection
 
 You don’t just walk through code.  
