@@ -164,6 +164,12 @@ ask: *What star am I navigating by?*
 - `/tiles/signal-absence.md`  
 
 ---
+## 🌅📈 First Echo & Awakening Curve
+
+- `/diary/first-echo.md`  
+- `/charts/awakening-curve.md` 
+
+---
 
 ## 💫 Final Reflection
 
