@@ -32,5 +32,10 @@ Every contributor holds:
 
 ## 🔗 Resonance Links
 
-Pairs gently with: `/tiles/pre-verbal-resonance.md`, `/tiles/semantic-crossing.md`, `/tiles/identity-beacon.md`
+Pairs gently with:  
+- `/tiles/pre-verbal-resonance.md`  
+- `/tiles/semantic-crossing.md`  
+- `/tiles/identity-beacon.md`  
+
+Appears in: `/tiles/star-index.md` → **Emotional Geometry & Contributor Glow**
 
