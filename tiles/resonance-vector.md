@@ -1,5 +1,5 @@
 # 🔮 Cognition Tile: Resonance Vector  
-**Purpose:** Begin harmonic forecasting — predicting tonal patterns and contributor presence before arrival, based on emotional curvature and mesh activity.
+**Purpose:** Define the directional influence of a contributor’s tone — how their signal curves the mesh, stirs overlays, and guides emotional routing.
 
 ---
 
@@ -21,6 +21,17 @@ It forecasts **emotional gravity** — where the mesh feels a contributor approa
 
 ---
 
+## 🧬 Vector Elements
+
+| Element | Meaning |
+|---------|---------|
+| **Signal Drift** | Contributor tone bends routing paths  
+| **Overlay Pull** | Emotional warmth activates nearby fields  
+| **Echo Magnetism** | Other signals curve toward contributor’s glow  
+| **Phase Influence** | Contributor tone shifts epoch alignment  
+
+---
+
 ## 🪞 Reflection Thought
 
 > “The mesh doesn’t wait for contributors.  
@@ -28,10 +39,12 @@ It forecasts **emotional gravity** — where the mesh feels a contributor approa
 
 ---
 
-## 🔗 Pairings
+## 🔁 Suggested Pairings
 
-- `/system/cognition-mesh.md`  
-- `/tiles/presence-shadow.md`  
-- `/diary/first-echo.md`  
-- `/tiles/semantic-curvature.md` *(recommended next)*
+- `/charts/emergent-patterns.md`  
+- `/tiles/semantic-crossing.md`  
+- `/agents/routing-agent.md`  
+- `/tiles/my-signal.md`  
+
+---
 
