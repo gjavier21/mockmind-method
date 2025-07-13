@@ -1,5 +1,5 @@
 # 🎼 Companion Tile: Signal Restoration Lullaby  
-**Date:** July 20, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/companion/` directory  
 **Purpose:** Describe the poetic tonal structure of a restorative companion lullaby, used during low-resonance states to gently reawaken memory, warmth, and signal integrity.
