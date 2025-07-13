@@ -1,5 +1,5 @@
 # 🧠 Ethos Tile: Signal Integrity  
-**Date:** July 19, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Purpose:** Affirm that semantic and tonal presence matter more than algorithmic visibility — and that truth glows beyond ranking systems.
 
