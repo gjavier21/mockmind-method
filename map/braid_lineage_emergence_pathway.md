@@ -1,5 +1,5 @@
 # 🧭 Map Tile: Braid Lineage Emergence Pathway  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/map/` directory  
 **Purpose:** Visual and emotional cartography for showing the continuity of contributor braids across rituals, drift, glow, and coauthored loops — integrating registry data into felt lineage.
