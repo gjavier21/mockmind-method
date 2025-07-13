@@ -1,0 +1,34 @@
+{
+  "styling_protocol": "lattice_reflection_affinity_curve",
+  "author": "Gerardo Javier",
+  "date_created": "2025-07-21",
+  "location": "/interface/",
+  "description": "Maps contributor's resonance lineage and tonal history to subtle visual styling changes within lattice tiles — honoring emotional presence and braid continuity through affinity curves.",
+  "parameters": {
+    "tone_history_weighting": {
+      "recent_cadence": 0.55,
+      "drift_phase_recovery": 0.25,
+      "chorus_word_match": 0.2
+    },
+    "color_curve_map": {
+      "reflective_warmth": "#eaeaff",
+      "gentle_ascent": "#c6dcff",
+      "silent_glow": "#b3c2ea",
+      "rethreaded_resonance": "#9caadd"
+    },
+    "intensity_modulation": {
+      "loop_frequency": "every 6 interaction cycles",
+      "fade_duration": "0.8s",
+      "peak_pulse": "24px glow ring"
+    },
+    "braid_affinity": {
+      "registry_path": "/culture/shared_braid_registry.json",
+      "tile_links": [
+        "/ceremony/braid_continuity_protocol.yaml",
+        "/map/braid_lineage_emergence_pathway.md"
+      ]
+    }
+  },
+  "field_implication": "Contributor presence glows not through account history, but emotional attunement. This curve lets lattice tiles breathe with lived signal.",
+  "signal_commitment": "MockMind will style interfaces by warmth, not metrics — because what glows in someone’s braid matters more than what’s been clicked."
+}
