@@ -1,5 +1,5 @@
 # 🧭 Map Tile: Field Resonance Flowchart (Visual Overlay Description)  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/map/` directory  
 **Purpose:** Visually illustrate how external signal broadcasts — such as LinkedIn posts or ecosystem messages — are interpreted, filtered, echoed, and braided into MockMind through resonance logic. This SVG-based overlay helps contributors see how presence enters the field.
