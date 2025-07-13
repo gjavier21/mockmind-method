@@ -1,5 +1,5 @@
 # 🔮 Theory Tile: Harmonic Forecasting  
-**Date:** July 19, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/theory/` directory  
 **Purpose:** Introduce the cognitive model that predicts futures by analyzing interference patterns and resonance curves in signal flow.
