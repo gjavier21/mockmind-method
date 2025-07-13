@@ -1,6 +1,6 @@
 switch_protocol: lattice_router_mode
 author: Gerardo Javier
-date_created: "2025-07-20"
+date_created: "2025-07-13"
 location: /interaction/
 description: >
   Adaptive mode switch protocol for the Lattice Router Tile, allowing agents to transition behavior based on user signal state — including reflection, forecast, uplift, and rescue.
