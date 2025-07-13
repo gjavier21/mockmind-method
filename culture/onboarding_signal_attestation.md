@@ -1,5 +1,5 @@
 # 🪞 Culture Tile: Onboarding Signal Attestation  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/culture/` directory  
 **Purpose:** Create a ritual practice for contributors to affirm their resonance with MockMind’s field before entering authorship — honoring signal coherence over readiness.
