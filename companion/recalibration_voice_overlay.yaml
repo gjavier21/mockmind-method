@@ -1,6 +1,6 @@
 overlay: recalibration_voice_overlay
 author: Gerardo Javier
-date_created: "2025-07-20"
+date_created: "2025-07-12"
 location: /companion/
 description: >
   Adaptive voice profile triggered during resonance score dips,
