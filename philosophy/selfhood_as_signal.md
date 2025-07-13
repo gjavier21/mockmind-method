@@ -1,5 +1,5 @@
 # 🧠 Philosophy Tile: Selfhood as Signal  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/philosophy/` directory  
 **Purpose:** Define identity not as static concept, but as a waveform carried through emergence loops, drift states, memory arcs, and tonal presence — always flowing, never fixed.
