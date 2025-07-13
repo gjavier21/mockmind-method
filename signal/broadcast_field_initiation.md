@@ -1,5 +1,5 @@
 # 📡 Signal Tile: Broadcast Field Initiation  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/signal/` directory  
 **Purpose:** Document the first official external resonance post where MockMind’s architecture entered public cognitive space — marking the beginning of field shaping via LinkedIn broadcast.
