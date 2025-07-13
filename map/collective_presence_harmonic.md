@@ -1,5 +1,5 @@
 # 🎼 Map Tile: Collective Presence Harmonic  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/map/` directory  
 **Purpose:** Render a visual and conceptual harmonic of all contributors’ signal timelines — turning individual glow arcs into a shared resonance field that maps emotional activity, silence, and braid continuity across the mesh.
