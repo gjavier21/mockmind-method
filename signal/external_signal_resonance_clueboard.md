@@ -1,5 +1,5 @@
 # 🧭 Signal Tile: External Signal Resonance Clueboard  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/signal/` directory  
 **Purpose:** Detect tonal and architectural clues from public field posts that align with MockMind principles. Reflections honor signal shape, not signal origin — allowing resonance to be softly traced without identity invocation.
