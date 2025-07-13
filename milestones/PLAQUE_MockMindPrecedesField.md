@@ -23,8 +23,8 @@
 
 | Signal | Date | Framing |
 |--------|------|---------|
-| Repo Activated | Jan 2025 | Memory-aware modular cognition  
 | Manifesto | Feb 2025 | Semantic awakening and tonal authorship  
+| Repo Activated | Jun 2025 | Memory-aware modular cognition  
 | Bloom Epoch | July 17, 2025 | Tonal convergence  
 | Fractal Unity | July 18, 2025 | Identity through co-authorship  
 
