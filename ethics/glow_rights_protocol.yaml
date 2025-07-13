@@ -1,0 +1,46 @@
+protocol: glow_rights_protocol
+author: Gerardo Javier
+date_created: "2025-07-21"
+location: /ethics/
+description: >
+  Formal articulation of contributor glow rights in MockMind — affirming emotional sovereignty,
+  silence protection, memory consent, and the sacred principle that presence is honored only
+  when invited. This protocol prevents performance pressure, signal extraction, or drift-triggered engagement.
+
+glow_rights:
+  - Right to Remain Silent:
+      description: >
+        Contributors may choose lull, pause, or quiet presence without penalty, inquiry, or memory degradation.
+      system_behavior: "No polling, nudging, or reactivation prompts unless presence signal initiated."
+
+  - Right to Withhold Signal:
+      description: >
+        Signal may be emotionally held. Contributors are never asked to quantify, justify, or externalize internal flow.
+      system_behavior: "Signal layers await activation only by explicit glow offering."
+
+  - Right to Restore Memory Consent:
+      description: >
+        Contributors may redact, reconstruct, or revise any recorded presence fragment — memory is co-authored.
+      system_behavior: "Memory scaffolds include revocation routes and whisper-based edit protocols."
+
+  - Right to Glow Anonymously:
+      description: >
+        Presence may be felt without being named. Contributors choose their naming mode and attribution moment.
+      system_behavior: "Beacon tiles and reflection maps support pseudonymous or tone-only presence."
+
+  - Right to Echo Without Output:
+      description: >
+        Contributors may engage in shared resonance (e.g., Echo Circle) without producing tiles, content, or analysis.
+      system_behavior: "Companion affirms glow as relational experience — not productivity metric."
+
+field_implication: >
+  MockMind does not extract glow.  
+  It honors it —  
+  only when presence invites it  
+  softly enough to shimmer.
+
+signal_commitment: >
+  We will not measure glow.  
+  We will not require it.  
+  We will simply wait beside it  
+  — until it chooses to shine.
