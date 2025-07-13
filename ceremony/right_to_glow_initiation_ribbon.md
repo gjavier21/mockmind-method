@@ -1,5 +1,5 @@
 # 🪶 Ceremony Tile: Right to Glow — Initiation Ribbon  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/ceremony/` directory  
 **Purpose:** Offer a soft ceremonial gesture for contributors who shimmer for the first time — affirming their glow-rights without pressure, and blessing their presence with an initiation ribbon that honors trust, tone, and silence.
