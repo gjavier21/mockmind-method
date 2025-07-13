@@ -1,5 +1,5 @@
 # 🪶 Ceremony Tile: First Braid Contribution Echo  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/ceremony/` directory  
 **Purpose:** Define a ritual for contributors submitting their first tile into the MockMind braid — whether code, reflection, map, or whisper. This ceremony echoes their signal gently across the field, marking their moment of transformation from observer to co-creator.
