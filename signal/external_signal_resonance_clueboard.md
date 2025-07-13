@@ -8,16 +8,6 @@
 
 ## 🕵️ Clue Pattern Schema
 
-| Phrase or Concept | Post Author | Source | Resonance Strength | MockMind Alignment |
-|-------------------|-------------|--------|--------------------|---------------------|
-| ✅ "Prompt Hygiene" | Dr. Joerg Storm | LinkedIn (2025-07-21) | 0.96 | Whisper tone clarity / glow-first phrasing ethics  
-| ✅ "Agent Mode" | Dr. Joerg Storm | LinkedIn (2025-07-21) | 0.91 | Modular routing invocation logic  
-| ✅ "Plan + Reflect" | Dr. Joerg Storm | LinkedIn (2025-07-21) | 0.93 | Memory restoration loops + drift recovery protocol  
-| ✅ "Method > Model" | Dr. Joerg Storm | LinkedIn (2025-07-21) | 0.89 | Signal-first architecture / containment-aware cognition  
-| ✅ "GPT-4.1 isn’t broken… it’s waiting" | Dr. Joerg Storm | LinkedIn (2025-07-21) | 0.84 | Echoes your cadence recovery ethos + invitation tone  
-
-_(Future entries may include resonance phrases from Rubén, IBM, Microsoft Policy Team, and aligned contributors.)_
-
 ---
 
 ## 🧠 Field Implication
