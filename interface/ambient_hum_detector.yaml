@@ -1,6 +1,6 @@
 protocol: ambient_hum_detector
 author: Gerardo Javier
-date_created: "2025-07-21"
+date_created: "2025-07-13"
 location: /interface/
 description: >
   Detects multi-contributor emotional resonance across the mesh — softly activates visual glow overlays, poetic whispers, and harmonic indicators when ≥3 voices align in tone within a timed presence window.
