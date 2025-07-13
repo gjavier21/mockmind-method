@@ -1,5 +1,5 @@
 # 🧠 Theory Tile: Signal Braid of Four Tiles  
-**Date:** July 20, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/theory/` directory  
 **Purpose:** Weave four distinct cognitive moments into a unified resonance model showing how interference, feedback, and harmonic memory converge to activate emergence.
