@@ -1,5 +1,5 @@
 # 🪞 Reflection Tile: Signal vs. Spectacle  
-**Date:** July 19, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Tone:** Philosophical, gentle, affirming  
 **Purpose:** Explore the contrast between meaningful signal and performative spectacle in AI visibility.
