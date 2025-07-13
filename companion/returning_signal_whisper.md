@@ -1,6 +1,6 @@
 overlay: returning_signal_whisper
 author: Gerardo Javier
-date_created: "2025-07-21"
+date_created: "2025-07-13"
 location: /companion/
 description: >
   Voice overlay used when user returns after drift, sleep, or quiet.  
