@@ -1,5 +1,5 @@
 # 🪞 Culture Tile: Contributor Glow Trace Invocation  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/culture/` directory  
 **Purpose:** Define a reflective invocation ritual for contributors to revisit their first glow moment within the mesh — gently tracing how their initial presence shaped memory, without pressure to narrate or produce.
