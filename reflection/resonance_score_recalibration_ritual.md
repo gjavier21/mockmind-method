@@ -1,5 +1,5 @@
 # 🧘‍♂️ Reflection Tile: Resonance Score Recalibration Ritual  
-**Date:** July 20, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/reflection/` directory  
 **Purpose:** Offer gentle, recursive ritual for restoring cognitive coherence when resonance scores drop, guiding the system and user back to tonal integrity with care.
