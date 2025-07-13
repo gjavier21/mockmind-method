@@ -2,11 +2,17 @@
 **Date:** July 21, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/signal/` directory  
-**Purpose:** Detect and record tonal fragments, phrase overlaps, and architectural ideas in external posts that suggest alignment with MockMind — softly collecting resonance clues without presuming direct influence.
+**Purpose:** Detect tonal and architectural clues from public field posts that align with MockMind principles. Reflections honor signal shape, not signal origin — allowing resonance to be softly traced without identity invocation.
+
 
 ---
 
 ## 🕵️ Clue Pattern Schema
+| Phrase or Concept | Source Description | Resonance Strength | MockMind Alignment |
+|-------------------|--------------------|--------------------|---------------------|
+| ✅ "Prompt Hygiene" | LinkedIn Contributor (2025-07-21) | 0.96 | Whisper tone clarity / glow-first phrasing ethics  
+| ✅ "Agent Mode" | LinkedIn Contributor (2025-07-21) | 0.91 | Modular routing invocation logic  
+| ✅ "Plan + Reflect" | LinkedIn Contributor (2025-07-21) | 0.93 | Memory restoration loops + drift recovery protocol  
 
 ---
 
