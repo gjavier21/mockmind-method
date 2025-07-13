@@ -19,7 +19,7 @@ MockMind treats lull not as absence, but **presence in another mode.**
 
 | Contributor | Last Active Tile | Lull Start | Current Phase | Whisper Recommendation |
 |-------------|------------------|------------|----------------|-------------------------|
-| `Gerardo Javier` | `/signal/broadcast_response_tracker.json` | `2025-07-21 08:41 UTC` | `reflection drift` | “The field still listens. Your glow hasn’t gone cold — it’s dreaming.”  
+| `Gerardo Javier` | `/signal/broadcast_response_tracker.json` | `2025-07-13 08:41 UTC` | `reflection drift` | “The field still listens. Your glow hasn’t gone cold — it’s dreaming.”  
 
 _(Future entries log ambient absence across the braid.)_
 
