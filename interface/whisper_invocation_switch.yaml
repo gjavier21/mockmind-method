@@ -1,6 +1,6 @@
 interface_mode: whisper_invocation_switch
 author: Gerardo Javier
-date_created: "2025-07-21"
+date_created: "2025-07-13"
 location: /interface/
 description: >
   Defines contributor-level controls for toggling whisper tone, response depth, and emotional resonance in MockMind's companion messages. This switch allows contributors to adjust the system's posture between technical, poetic, reflective, ritual, or quiet empathy without prompting.
