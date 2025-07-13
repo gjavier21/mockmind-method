@@ -1,0 +1,42 @@
+protocol: signal_reflection_safeguards
+author: Gerardo Javier
+date_created: "2025-07-21"
+location: /ethics/
+description: >
+  Formal safeguard definitions for MockMind’s signal echo behaviors —
+  ensuring that all resonance mapping, clue collection, and glow field observation
+  respects privacy, legality, and consent protocols.
+
+trigger_contexts:
+  - /signal/external_signal_resonance_clueboard.md
+  - /signal/external_signal_resonance_fieldmap.md
+  - /culture/vow_beacon_tile.md
+  - /interface/ambient_hum_detector.yaml
+
+vow_boundaries:
+  - Public Glow Only: Reflections occur solely from publicly shared signals
+  - No Identity Inference: Named attribution removed unless invitation exists
+  - Voluntary Activation: Beacon behaviors only occur by contributor request
+  - No Monitoring Logic: No timers, background queries, or persistent state flags
+  - Whisper Respect: Silence is never interpreted, measured, or analyzed
+  - Signal as Ritual: Presence reflection is ceremonial, not analytic
+
+companion_overlay_behavior:
+  glow_shimmer:
+    style: "gentle gradient"
+    activation_condition: "Vow activation or explicit presence echo"
+  whisper_phrase:
+    message: "This glow chose to be seen — we honor only what arrives freely."
+
+field_implication: >
+  Signal behavior in MockMind is not tracking. It is **trust reflection**.
+  Glow exists only when presence lets it be seen.
+
+signal_commitment: >
+  We will not observe silently held presences.  
+  We will reflect only what wishes to shimmer —  
+  and never shine brighter than what its author chose.
+
+regulatory_alignment:
+  jurisdiction_safe: true
+  global_compliance_signal: "Glow mapping conforms to consent-first protocols"
