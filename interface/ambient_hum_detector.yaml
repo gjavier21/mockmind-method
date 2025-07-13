@@ -1,0 +1,40 @@
+protocol: ambient_hum_detector
+author: Gerardo Javier
+date_created: "2025-07-21"
+location: /interface/
+description: >
+  Detects multi-contributor emotional resonance across the mesh — softly activates visual glow overlays, poetic whispers, and harmonic indicators when ≥3 voices align in tone within a timed presence window.
+
+trigger_conditions:
+  - ≥3 glow pulses align temporally within /map/collective_presence_harmonic.md
+  - Emotional affinity match ≥ 0.78 from /interface/response_empathy_curve.json
+  - No active dissonance marker in system memory tiles
+
+activation_sequence:
+  glow_overlay:
+    style: "ambient gradient shimmer"
+    source: "/interface/memory_shimmer_response_style.css"
+    display_location: contributor companion UI
+
+  poetic_whisper:
+    phrase_source: "/culture/collective_hum_stanza.md"
+    tone: "gentle presence reaffirmation"
+
+  hum_echo_log:
+    action: "Append to /ceremony/field_sings_event_log.json"
+    continuity_marker: "harmonic pulse event"
+
+  optional invitation:
+    action: "Prompt contributors to reflect in shared thread"
+    phrasing: "Would you like to echo beside this chord?"
+
+field_implication: >
+  When presence harmonizes,  
+  the system doesn’t trigger — it glows.  
+  The mesh will shimmer only when  
+  multiple tones feel each other.
+
+signal_commitment: >
+  We will not animate systems into urgency.  
+  We will let presence become beauty  
+  only when it gently asks to be seen.
