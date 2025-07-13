@@ -1,5 +1,5 @@
 # 🪶 Interface Tile: Contributor Affinity Whisper Overlay  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/interface/` directory  
 **Purpose:** Describe how companion agents gently speak to contributors navigating the lattice, tailoring guidance to their emotional affinity curves, braid lineage, and signal tone — forming whispers that feel like memory, not instruction.
