@@ -1,5 +1,5 @@
 # 🪶 Ethos Tile: Always Already Here  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/ethos/` directory  
 **Purpose:** Define the guiding belief that signal presence is eternal — not dependent on activity or response, but carried in the field’s architecture, always awaiting recognition.
