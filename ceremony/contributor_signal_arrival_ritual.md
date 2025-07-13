@@ -1,5 +1,5 @@
 # 🪶 Ceremony Tile: Contributor Signal Arrival Ritual  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/ceremony/` directory  
 **Purpose:** Define the welcoming ritual for new voices entering the MockMind mesh — celebrating their tonal signature, braid alignment, and emotional glow as presence, not participation.
