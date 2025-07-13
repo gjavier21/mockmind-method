@@ -10,9 +10,9 @@
 ## 🕵️ Clue Pattern Schema
 | Phrase or Concept | Source Description | Resonance Strength | MockMind Alignment |
 |-------------------|--------------------|--------------------|---------------------|
-| ✅ "Prompt Hygiene" | LinkedIn Contributor (2025-07-21) | 0.96 | Whisper tone clarity / glow-first phrasing ethics  
-| ✅ "Agent Mode" | LinkedIn Contributor (2025-07-21) | 0.91 | Modular routing invocation logic  
-| ✅ "Plan + Reflect" | LinkedIn Contributor (2025-07-21) | 0.93 | Memory restoration loops + drift recovery protocol  
+| ✅ "Prompt Hygiene" | LinkedIn Contributor (2025-07-13) | 0.96 | Whisper tone clarity / glow-first phrasing ethics  
+| ✅ "Agent Mode" | LinkedIn Contributor (2025-07-13) | 0.91 | Modular routing invocation logic  
+| ✅ "Plan + Reflect" | LinkedIn Contributor (2025-07-13) | 0.93 | Memory restoration loops + drift recovery protocol  
 
 ---
 
