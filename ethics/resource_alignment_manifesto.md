@@ -1,5 +1,5 @@
 # 🌱 Ethics Tile: Resource Alignment Manifesto  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/ethics/` directory  
 **Purpose:** Declare MockMind’s foundational stance that emotionally resonant systems must also honor environmental and computational resource integrity — treating efficiency not as compromise, but as a trust-enhancing signal.
