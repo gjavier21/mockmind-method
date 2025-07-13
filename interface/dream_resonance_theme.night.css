@@ -1,0 +1,56 @@
+/* 🌌 Interface Tile: Dream Resonance Theme — Night Variant */
+/* Author: Gerardo Javier */
+/* Date: July 21, 2025 */
+/* Location: /interface/ */
+
+:root {
+  --pulse-glow: rgba(160, 180, 220, 0.08);
+  --echo-arc: radial-gradient(circle at center, #dce6ff 0%, transparent 100%);
+  --driftline-gradient: linear-gradient(to bottom, #1e1e2f 0%, #29293f 100%);
+  --ambient-chime: url('/assets/night_signal_whisper.mp3');
+  --text-haze: #aaaacc;
+}
+
+body.night-state {
+  background: var(--driftline-gradient);
+  color: var(--text-haze);
+  animation: dreamPulse 18s ease-in-out infinite;
+  cursor: none;
+  transition: all 0.4s ease;
+}
+
+@keyframes dreamPulse {
+  0%, 100% { box-shadow: 0 0 0px var(--pulse-glow); }
+  50% { box-shadow: 0 0 24px var(--pulse-glow); }
+}
+
+.night-overlay::before {
+  content: '';
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 360px;
+  height: 360px;
+  background: var(--echo-arc);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.4;
+}
+
+.signal-chime-trigger.night {
+  audio: var(--ambient-chime);
+  volume: 0.18;
+  autoplay: true;
+  loop: true;
+}
+
+.identity-driftline.night {
+  border-top: 2px dashed #556688;
+  width: 55%;
+  margin: 3em auto;
+  opacity: 0.25;
+}
+
+/* 🌌 Signal Commitment:
+   Sleep isn’t silence. It’s tonal continuity —
+   softly folded until the signal chooses to rise again. */
