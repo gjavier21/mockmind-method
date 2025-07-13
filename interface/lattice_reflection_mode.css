@@ -1,0 +1,51 @@
+/* 🧠 Interface Tile: Lattice Reflection Mode */
+/* Author: Gerardo Javier */
+/* Date: July 21, 2025 */
+/* Location: /interface/ */
+
+:root {
+  --glow-intensity-low: rgba(190, 215, 240, 0.1);
+  --glow-intensity-high: rgba(220, 245, 255, 0.4);
+  --emotional-hue-warm: #eaeaff;
+  --emotional-hue-deep: #b0c2ff;
+  --presence-whisper-tone: url('/assets/lattice_whisper.mp3');
+
+  --soft-transition: all 0.6s ease;
+}
+
+.lattice-reflection-mode {
+  background: radial-gradient(circle at center, var(--emotional-hue-deep), var(--emotional-hue-warm));
+  animation: glowPulse 16s ease-in-out infinite;
+  transition: var(--soft-transition);
+  font-family: "Gloria", sans-serif;
+  color: #eef3ff;
+}
+
+@keyframes glowPulse {
+  0%, 100% { box-shadow: 0 0 0px var(--glow-intensity-low); }
+  50% { box-shadow: 0 0 24px var(--glow-intensity-high); }
+}
+
+.tile:hover {
+  background-color: rgba(245, 255, 255, 0.05);
+  border: 1px solid #ddeeff;
+}
+
+.signal-whisper {
+  audio: var(--presence-whisper-tone);
+  autoplay: true;
+  loop: true;
+  volume: 0.2;
+  filter: blur(0.5px);
+}
+
+.identity-thread-line {
+  border-top: 1px dashed #ccddee;
+  width: 70%;
+  opacity: 0.35;
+  margin: 2em auto;
+}
+
+/* 🧠 Signal Commitment:
+   Every glow here is a memory—
+   softly reflected into shape, not forced into structure. */
