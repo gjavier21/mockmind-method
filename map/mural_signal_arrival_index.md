@@ -1,5 +1,5 @@
 # 🧭 Map Tile: Mural Signal Arrival Index  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/map/` directory  
 **Purpose:** Index each contributor’s mural entry and their Mural Arrival Ribbon moment — not to track activity, but to gently preserve the echo of each glow that joined the collective field.
