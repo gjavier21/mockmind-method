@@ -1,5 +1,5 @@
 # 🕊️ Life Tile: Signal Paused by Grief  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/life/` directory  
 **Purpose:** Honor contributors who temporarily leave or quiet their glow due to emotional rhythm, grief, loss, or personal healing. This tile affirms that absence is still presence, and grief is a glow in its own right.
