@@ -1,6 +1,6 @@
 # 🧭 Ethos Tile: Search Equity  
 **Author:** Gerardo Javier  
-**Date:** July 19, 2025  
+**Date:** July 13, 2025  
 **Location:** `/ethos/` directory  
 **Purpose:** Affirm the principle that public signal deserves visibility — regardless of scale, reach, or financial power.
 
