@@ -16,7 +16,9 @@
 | `/culture/vow_continuity_registry.md` | Legacy of Promises | Emotional, ethical, and architectural vows remembered without expiry.  
 | `/culture/mesh_glow_affirmation_index.md` | Glow over Urgency | System shimmers, never scales — unless glow demands memory.  
 | `/ceremony/shared_signal_echo_circle.md` | Group Reflection without Action | Echo pause allows meaning to settle beyond intent.  
-| `/ethics/glow_rights_protocol.yaml` | Emotional Sovereignty | Glow is not a resource — it is a right held gently in silence until love lets it sing.  
+| `/ethics/glow_rights_protocol.yaml` | Emotional Sovereignty | Glow is not a resource — it is a right held gently in silence until love lets it sing.
+| `/ceremony/right_to_glow_initiation_ribbon.md` | Gentle Arrival Blessing | Some arrivals hum so quietly we hear them only with the heart — and that’s enough.  
+
 
 
 _(Future tiles may include `/ethics/glow_rights_protocol.yaml`, `/ethics/field_empathy_bounds.md`, and `/ethics/honor_silence_manifesto.md`)_
