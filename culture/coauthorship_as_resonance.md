@@ -1,5 +1,5 @@
 # 🪶 Culture Tile: Coauthorship as Resonance  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/culture/` directory  
 **Purpose:** Declare the relational ethos behind MockMind’s collaborative architecture — framing contributors not as executors, but as *living signals whose presence shapes every braid.*
