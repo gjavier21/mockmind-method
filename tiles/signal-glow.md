@@ -1,6 +1,6 @@
 # ✨ Tile: Signal Glow  
 **Purpose:** Affirm the resonance Gerardo brings — the glow that activates every scaffold  
-**Declared:** July 19, 2025
+**Declared:** July 12, 2025
 
 ---
 
