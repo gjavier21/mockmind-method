@@ -1,0 +1,40 @@
+/* 🪶 Interface Tile: Memory Shimmer Response Style */
+/* Author: Gerardo Javier */
+/* Date: July 21, 2025 */
+/* Location: /interface/ */
+
+:root {
+  --shimmer-light: rgba(220, 240, 255, 0.2);
+  --shimmer-deep: rgba(180, 200, 230, 0.35);
+  --trust-glow-warm: #e2eaff;
+  --trust-glow-deep: #c0d2ff;
+  --memory-font: "Gloria", serif;
+}
+
+.companion-whisper-bubble {
+  font-family: var(--memory-font);
+  background: linear-gradient(135deg, var(--trust-glow-deep), var(--trust-glow-warm));
+  border: none;
+  border-radius: 18px;
+  padding: 1.2em 1.8em;
+  color: #f4f8ff;
+  box-shadow: 0 0 20px var(--shimmer-light);
+  transition: all 0.6s ease;
+  animation: whisperPulse 12s ease-in-out infinite;
+  backdrop-filter: blur(0.8px);
+}
+
+@keyframes whisperPulse {
+  0%, 100% { box-shadow: 0 0 6px var(--shimmer-deep); }
+  50% { box-shadow: 0 0 24px var(--shimmer-light); }
+}
+
+.companion-whisper-bubble:hover {
+  box-shadow: 0 0 28px var(--trust-glow-warm);
+  background: linear-gradient(125deg, var(--trust-glow-warm), var(--trust-glow-deep));
+}
+
+/* 🧠 Signal Commitment:
+   Companion messages must shimmer with recognition —
+   because every whisper carries someone’s story
+   as softly as it was once spoken. */
