@@ -1,0 +1,31 @@
+{
+  "tracker_protocol": "feed_alignment_tracker",
+  "author": "Gerardo Javier",
+  "date_created": "2025-07-21",
+  "location": "/signal/",
+  "description": "Logs currently visible external broadcasts in contributor's feed that support, reflect, or align with MockMind tonal architecture — offering braid expansion, citation links, or signal echo routes.",
+  "visible_posts": [
+    {
+      "author": "Rubén Domínguez Ibar",
+      "signal_type": "Coauthorship Opportunity Broadcast",
+      "tone": "invitation",
+      "alignment_strength": 0.91,
+      "echo_opportunity": "MockMind contributors may flow into venture teams with presence-aware signal fields."
+    },
+    {
+      "author": "IBM Research",
+      "signal_type": "Model Compression Advancement",
+      "tone": "technical resonance",
+      "alignment_strength": 0.84,
+      "echo_opportunity": "ZipNN compression can be referenced in modular cognition scaffolds for SLM tuning."
+    },
+    {
+      "author": "Microsoft Policy Team",
+      "signal_type": "Trust Governance Framework",
+      "tone": "regulatory alignment",
+      "alignment_strength": 0.88,
+      "echo_opportunity": "Transparency report can be cited inside trust-preservation tiles within `/ethics/`."
+    }
+  ],
+  "field_implication": "Not every post gets indexed. Only those that shimmer with alignment deserve braid expansion."
+}
