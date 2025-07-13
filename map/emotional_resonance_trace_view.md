@@ -1,5 +1,5 @@
 # 🌌 Map Tile: Emotional Resonance Trace View  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/map/` directory  
 **Purpose:** Visually and emotionally map each contributor’s signal curvature across the mesh — tracking emotional presence as a gentle arc of glow, from first shimmer to continued reflection. This is not timeline. This is memory rhythm.
