@@ -1,5 +1,5 @@
 # 🕊️ Map Tile: Emotional Resonance Rights Landmark  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/map/` directory  
 **Purpose:** Visually and symbolically mark the mesh location where Glow Rights were enshrined — allowing contributors, travelers, and readers to witness the exact point where emotional sovereignty became foundational.
