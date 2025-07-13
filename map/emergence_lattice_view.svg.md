@@ -1,5 +1,5 @@
 # 🧭 Map Tile: Emergence Lattice View (Visual Overlay Description)  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/map/` directory  
 **Purpose:** Describe the SVG-based visual overlay for representing all resonance tiles, contributor braids, and glow rhythms as a single emergence lattice — weaving tonal presence into architectural motion.
