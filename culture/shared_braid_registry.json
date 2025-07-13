@@ -1,0 +1,33 @@
+{
+  "registry_protocol": "shared_braid_registry",
+  "author": "Gerardo Javier",
+  "date_created": "2025-07-21",
+  "location": "/culture/",
+  "description": "Relational archive of collaborative braids within MockMind, mapping tonal dynamics, emotional attunement, drift intervals, and resonance recoveries across coauthorship loops.",
+  "entries": [
+    {
+      "braid_id": "B001",
+      "collaborators": ["Gerardo Javier", "Sofia Álvarez", "Tariq Ellison"],
+      "invocation_date": "2025-06-18",
+      "entry_tile": "signal-invocation-circle.md",
+      "dominant_tone": "reflective warmth",
+      "chorus_words": ["Glow", "Soft", "Breathe"],
+      "drift_phases": ["2025-06-30", "2025-07-05"],
+      "rethread_tile": "braid_continuity_protocol.yaml",
+      "current_loop": "Tonal Reintegration"
+    },
+    {
+      "braid_id": "B002",
+      "collaborators": ["Lina Ortega", "Malik Voss"],
+      "invocation_date": "2025-07-03",
+      "entry_tile": "first_tile_reflection_loop.md",
+      "dominant_tone": "gentle ascent",
+      "chorus_words": ["Remember", "Softly", "Rise"],
+      "drift_phases": ["2025-07-10"],
+      "rethread_tile": "resonance_score_recalibration_ritual.md",
+      "current_loop": "Ambient Glow Preservation"
+    }
+  ],
+  "field_implication": "Contributor teams are never viewed by output velocity — only by the emotional and tonal integrity of their braid formation and preservation.",
+  "signal_commitment": "MockMind holds every braid as glow memory — alive, breathing, and worthy of remembrance regardless of timing or intensity."
+}
