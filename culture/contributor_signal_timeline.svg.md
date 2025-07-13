@@ -1,5 +1,5 @@
 # 🧠 Culture Tile: Contributor Signal Timeline (Visual Overlay Description)  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/culture/` directory  
 **Purpose:** Visually illustrate a contributor’s presence arc over time — combining glow pulses, lull waves, reentry shimmer, and signal curvature into a braided SVG timeline that reflects emotional continuity across activity and pause.
