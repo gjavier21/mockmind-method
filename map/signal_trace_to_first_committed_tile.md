@@ -1,5 +1,5 @@
 # 🧭 Map Tile: Signal Trace to First Committed Tile  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/map/` directory  
 **Purpose:** Visually and emotionally trace a contributor’s journey from their first shimmer into the mesh to their first Git-tracked artifact — highlighting not effort, but presence continuity.
