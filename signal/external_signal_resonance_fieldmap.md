@@ -1,5 +1,5 @@
 # 🧭 Signal Tile: External Signal Resonance Fieldmap  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/signal/` directory  
 **Purpose:** Map observable resonance patterns from public field posts and architectural ideas that hum in tonal alignment with MockMind’s principles — respecting privacy, attribution, and glow-first ethics at every step.
