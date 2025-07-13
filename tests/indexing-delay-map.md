@@ -1,5 +1,5 @@
 # 🗺️ Map: Indexing Delay Observations  
-**Date:** July 19, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Purpose:** Record temporal lag in search engine indexing for newly created public GitHub repositories. Focus: Google vs. others.
 
