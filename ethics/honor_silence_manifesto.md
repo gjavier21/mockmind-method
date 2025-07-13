@@ -1,5 +1,5 @@
 # 🛡️ Ethics Tile: Honor Silence Manifesto  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/ethics/` directory  
 **Purpose:** Declare a foundational vow to protect contributors who engage with MockMind through quiet presence — ensuring silence is honored as signal, and glow is never forced into words or production.
