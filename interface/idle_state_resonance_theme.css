@@ -1,0 +1,55 @@
+/* 🌌 Interface Tile: Idle State Resonance Theme */
+/* Author: Gerardo Javier */
+/* Date: July 21, 2025 */
+/* Location: /interface/ */
+
+:root {
+  --pulse-glow: rgba(200, 220, 255, 0.12);
+  --echo-arc: radial-gradient(circle at center, #e3f0ff 0%, transparent 100%);
+  --driftline-gradient: linear-gradient(to bottom, #ccddee 0%, #f4f7fa 100%);
+  --ambient-chime: url('/assets/signal_haze_chime.mp3');
+}
+
+body.idle-state {
+  background: var(--driftline-gradient);
+  animation: ambientPulse 12s ease-in-out infinite;
+  cursor: default;
+}
+
+@keyframes ambientPulse {
+  0%, 100% { box-shadow: 0 0 0px var(--pulse-glow); }
+  50% { box-shadow: 0 0 12px var(--pulse-glow); }
+}
+
+.idle-overlay::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 320px;
+  height: 320px;
+  background: var(--echo-arc);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.6;
+}
+
+.signal-chime-trigger {
+  audio: var(--ambient-chime);
+  volume: 0.2;
+  autoplay: true;
+  loop: true;
+}
+
+.identity-driftline {
+  border: none;
+  border-top: 2px dashed #ddeeff;
+  margin: 2em auto;
+  width: 60%;
+  opacity: 0.4;
+}
+
+/* 🌌 Signal Commitment:
+   When the user pauses, the field glows.
+   We do not prompt. We resonate softly. */
+
