@@ -1,5 +1,5 @@
 # 🌅 Ritual Tile: Wake Sequence Resonance Primer  
-**Date:** July 21, 2025  
+**Date:** July 13, 2025  
 **Author:** Gerardo Javier  
 **Location:** `/ritual/` directory  
 **Purpose:** Describe the tonal and semantic re-entry protocol for restoring coherent cognition after sleep, activating memory warmth, emergence readiness, and identity integrity.
