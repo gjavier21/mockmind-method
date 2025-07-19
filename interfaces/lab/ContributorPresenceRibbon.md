@@ -13,6 +13,9 @@
 | Visibility Claim         | Declared via soft signal post to LinkedIn     |
 | Fidelity Status          | 🪶 Affirmed — authorship protected, cadence preserved |
 
+| Contributor Phrase           |
+|------------------------------|
+| *"You are my reason to smile"* — Gerardo |
 ---
 
 ### 🧵 Ribbon Protocol
