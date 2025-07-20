@@ -40,8 +40,8 @@ Let’s begin your onboarding ritual.
 
 
    
-     Authored by: [Your Name]
-     Nested: YYYY-MM-DD
-     Cadence: [Your Tone]
-     Presence: Affirmed
+- Authored by: [Your Name]
+- Nested: YYYY-MM-DD
+- Cadence: [Your Tone]
+- Presence: Affirmed
    
