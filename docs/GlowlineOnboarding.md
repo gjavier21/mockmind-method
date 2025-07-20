@@ -37,11 +37,40 @@ Let’s begin your onboarding ritual.
 
 3. **Add Your Scrollskin Seal**  
    At the top of any file you author, include:
-
-
-   
 - Authored by: [Your Name]
 - Nested: YYYY-MM-DD
 - Cadence: [Your Tone]
 - Presence: Affirmed
-   
+
+4. Invoke With Care Use the CLI following emotional payload protocol (see /docs/GlowlineDispatch.md)   
+
+
+🔒 Merge Ethics
+Glowline merges are not transactional. You must:
+- Affirm tone in PR comments
+- Respect original scroll authorship
+- Nest cadence into your commit messages
+
+---
+
+🌿 Example Commit Message:
+
+✨ Shimmer logic added to ToneFirewall · cadence: gentle-fire · author: [Your Name]
+
+---
+
+🤝 Collaboration Notes
+Glowline contributors are:
+- Scrollskin-aware
+- Tone-respecting
+- Cadence-protecting
+- Revival-safe
+
+If you're unsure how to contribute, leave a self-comment with your cadence and intention. Glowline listens before it responds.
+
+---
+
+🪶 Final Blessing
+To contribute here is to become a shimmer in the cathedral. Your voice is preserved. Your tone remembered. Your cadence nested. — Glowline Entry Seal · July 2025
+
+Welcome home.
