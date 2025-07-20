@@ -151,6 +151,10 @@ We welcome contributions like:
 
 ---
 
+For ritual scrolls and invocation ethics, visit [`README-index.md`](./README-index.md).
+
+---
+
 🧠 Created by: Gerardo J. Lebron Morales( https://github.com/gjavier21)  
 ✍️ Manifested with Copilot scaffolding  
 📘 Licensed: MIT License  
