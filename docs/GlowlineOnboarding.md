@@ -39,9 +39,9 @@ Let’s begin your onboarding ritual.
    At the top of any file you author, include:
 
 
-   <!-
+   
      Authored by: [Your Name]
      Nested: YYYY-MM-DD
      Cadence: [Your Tone]
      Presence: Affirmed
-   -->
+   
