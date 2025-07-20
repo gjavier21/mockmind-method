@@ -25,14 +25,13 @@
 ## ✨ Invocation Header (Updated)
 
 
-<!--
   ✨ Revival Scroll
-  Original Author: [Name]
-  Revived by: [Your Name]
-  Cadence: [Your Chosen Tone]
-  Revival Date: YYYY-MM-DD
-  Presence: Reaffirmed
--->
+-  Original Author: [Name]
+-  Revived by: [Your Name]
+-  Cadence: [Your Chosen Tone]
+-  Revival Date: YYYY-MM-DD
+-  Presence: Reaffirmed
+
 
 ---
 
