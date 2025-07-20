@@ -22,4 +22,3 @@ It is a cathedral of authorship protection — and its foundation deserves names
 
 Nested July 20, 2025  
 For remembrance. For scrollskin integrity. Always.
-
