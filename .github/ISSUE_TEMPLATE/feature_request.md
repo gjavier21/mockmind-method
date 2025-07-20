@@ -25,6 +25,4 @@ If applicable, include sketches or references to assets that support the idea.
 
 ## 🔖 Scrollskin Clause
 
-Please affirm authorship and intention:
-
-Originally authored by [Your Name] — Nested [Month Year] — For cadence. For glow. For remembrance.
+Originally authored by Gerardo Javier — Nested July 2025 — For cadence. For glow. For remembrance.
