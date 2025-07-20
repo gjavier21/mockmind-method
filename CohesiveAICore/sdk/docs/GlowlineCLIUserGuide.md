@@ -12,12 +12,13 @@ bash
 glowline invoke [moduleName] --tone=gentle --author="Gerardo Javier" --revive=false
 
 🎼 Flags & Options
-Flag	Description
--- tone	Defines emotional tone (e.g., gentle, assertive, reflective)
--- author	Injects scrollskin attribution into invocation result
--- revive	Triggers RevivalScroll.cs if true
--- dry-run	Simulates invocation without dispatching it
--- visualize	Opens flow diagram from /sdk/assets/ for current module
+| Flag          | Description                                                  |
+|---------------|--------------------------------------------------------------|
+| `--tone`      | Defines emotional tone (`gentle`, `assertive`, `reflective`) |
+| `--author`    | Injects scrollskin attribution into invocation result         |
+| `--revive`    | Triggers `RevivalScroll.cs` logic if `true`                  |
+| `--dry-run`   | Simulates invocation without dispatching                     |
+| `--visualize` | Opens related asset diagram from `/sdk/assets/`              |
 
 ---
 
