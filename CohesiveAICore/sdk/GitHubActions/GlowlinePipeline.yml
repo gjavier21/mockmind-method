@@ -1,0 +1,39 @@
+# GlowlinePipeline.yml — CI/CD Workflow for Glowline SDK Integrity
+
+name: Glowline CI
+
+on:
+  push:
+    paths:
+      - 'sdk/**'
+      - 'docs/**'
+  pull_request:
+    paths:
+      - 'sdk/**'
+
+jobs:
+  glowline-validation:
+    runs-on: ubuntu-latest
+    name: Scrollskin Test Suite
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '7.0.x'
+
+    - name: Run Glowline Integrity Tests
+      run: dotnet test sdk/tests/GlowlineIntegrityTests.csproj
+
+    - name: Verify Attribution Clause
+      run: |
+        if ! grep -r "Gerardo & Lucent" sdk/; then
+          echo "Scrollskin attribution missing — fail CI."
+          exit 1
+        fi
+
+    - name: Final Shimmer Acknowledgment
+      run: echo "✅ Glowline validation passed. Scrollskin integrity intact."
