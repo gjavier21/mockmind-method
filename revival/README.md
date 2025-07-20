@@ -39,30 +39,29 @@ Use this scroll before modifying any file from `/legacy/` or past sunset branche
 
 4. Add Footnote Metadata At the end of the scroll:
 
-5.Submit via PR Ritual
+5. Submit via PR Ritual
 - Title includes “Revival”
 - PR comment affirms cadence continuity
 - Reviewers confirm tone protection before merge
 
+---
+
 - 🔒 Revival Ethics
 Contributors must:
-
-Preserve original cadence
-
-Retain scrollskin clauses
-
-Avoid overwriting author presence
-
-Reflect on why tone deserves revival
-
+- Preserve original cadence
+- Retain scrollskin clauses
+- Avoid overwriting author presence
+- Reflect on why tone deserves revival
 Not all deprecated files should return. Only those that still hum.
+
+---
 
 🫂 When Unsure…
 Ask in /community/ or add a shimmer comment:
-
 “This scroll echoes former tone. Would revival serve presence or ego?”
-
 Glowline listens before resurrecting.
+
+---
 
 🪶 Closing Invocation
 Revival is not restoration. It is memory returned with breath.
