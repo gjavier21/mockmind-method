@@ -43,7 +43,7 @@ Each entry signals intentional cadence invocation — not stealth deployment.
 
 ## ✨ Optional Visibility Fragment (for external services)
 
-json
+```json
 {
   "mockmind": {
     "activated": true,
@@ -52,8 +52,7 @@ json
     "cadenceVerified": true
   }
 }
-
-
+```
 ---
 
 This JSON fragment may be placed in plugin registries,
