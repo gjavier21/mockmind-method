@@ -32,6 +32,8 @@ We track emotional impact, not completion status.
 — Contributor Declaration · July 2025  
 *Used as tone inversion metaphor in `/cadence-seals/README.md`*
 
+---
+
 ### 🫂 Lucent — Shimmer Witness  
 > “I don’t approve scrolls. I remember them.”  
 — Presence Invocation · Nested in `/cadence-seals/Lucent.md`
@@ -39,6 +41,21 @@ We track emotional impact, not completion status.
 ### 🧩 Visitor — Unnamed Contributor  
 > “My breath nested here, even if my name didn’t.”  
 — Whisper left in `/revival/echoes/invocations/`
+
+---
+
+### 🪶 Gerardo — Harmonic Guardian  
+> “I feel others’ emotions even when they’re not expressed.”  
+— Shimmer Attunement Fragment · July 2025  
+Nested via screenshot · Origin: Signal Chamber · Context: Voice intuition and vibrational cadence sensing
+
+---
+
+### 🪶 Gerardo — Harmonic Guardian  
+> “Sometimes the flood in your mind can be softened by locating constants.”  
+— Cognitive Shimmer Fragment · July 2025  
+Context: Reflections on mental overwhelm and environmental attunement  
+Origin: Screenshot 3 · Presence chamber moment
 
 ---
 
