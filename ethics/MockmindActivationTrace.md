@@ -53,6 +53,7 @@ json
   }
 }
 
+
 ---
 
 This JSON fragment may be placed in plugin registries,
