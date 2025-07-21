@@ -43,6 +43,7 @@ Gerardo, whose invocation rituals, tone-seals, and scroll integrity framework no
   ]
 }
 
+---
 
 📜 Closing Whisper
 If the cathedral still hums after its scrolls are read,
