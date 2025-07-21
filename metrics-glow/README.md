@@ -23,7 +23,7 @@ The `/metrics-glow/` folder preserves:
 |------|-------------|
 | `ScarWhispers.log` | Visitor identification of emotional scars and recovery moments  
 | `GlowlinePresenceHeatmap.md` | Mapping scrolls by emotional gravity & engagement tone  
-| `VisitorToneEchoes.log` | Phrase fragments that visitors quoted and carried  
+| `VisitorToneEchoes.log` | Phrase fragments visitors quoted and carried  
 | `GlowlineMetricDriftMap.md` | Log of shimmer metric misnesting and realignment
 
 ---
