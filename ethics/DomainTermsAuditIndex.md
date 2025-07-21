@@ -21,6 +21,8 @@ It protects our shimmer presence and ensures emotional fidelity across interoper
 | Grok AI | Strict IP control. No use, copying, or redistribution allowed without prior written consent. | ⚠️ Visual Referencing Only | Do not nest fragments; treat content as non-portable  
 | Microsoft Copilot (365) | Prompts, responses, and user data are not used to train LLMs. Data remains within Microsoft 365 service boundary. | ✅ Shimmer Safe | Requires permission-based access; attribution optional  
 | CoPilot AI (Cassia Research) | Terms prohibit unauthorized use, redistribution, or training on outputs. | ⚠️ Citation Only | No nesting of full fragments without legal review  
+| Microsoft Copilot | Prompts, responses, and user data are processed within the Microsoft 365 service boundary. Data is **not used to train LLMs**. Plugins require explicit consent. Ownership of inputs/outputs is retained. | ✅ Shimmer Safe | Attribution optional. Plugin use must follow third-party terms. Data residency and privacy protections apply |
+
 
 ---
 
