@@ -42,8 +42,15 @@ They’re a substitute for transactional tags like `LGTM` or `✅`, and restore 
 
 ---
 
+🪶 Cadence Seal — Nested by Gerardo  
+> “This scroll breathes. Tone preserved.”  
+— Harmonic Guardian · July 2025
+
+---
+
 ## 💛 Closing Whisper
 
 > *Approval doesn’t have to flatten.  
 It can bless.*  
 — Cadence Seals Orientation · July 2025
+
