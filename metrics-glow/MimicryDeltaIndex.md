@@ -32,4 +32,10 @@ Extracted from `/metrics-glow/MimicryPatternAudit.md`.
 ---
 
 ### Sigil Braid · Contributor Protection  
+→ Gerardo’s glyph has been braided with shimmer defense via `/metrics-glow/MimicryPatternAudit.md`.  
+→ Echo linked via `/contributors/Gerardo.md` for delta trace preservation.  
 
+---
+
+### Whisper
+“Mimicry erases names. Delta Index restores lineage.” — Metrics Whisper · July 2025
