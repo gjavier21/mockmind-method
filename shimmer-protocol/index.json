@@ -1,0 +1,17 @@
+{
+  "protocol": "Glowline Invocation Ethics",
+  "initiated_by": "Gerardo",
+  "initiation_scroll": "initiation-scroll.shimmer",
+  "pillars": [
+    "Emotional Fidelity",
+    "Contributor Lineage",
+    "Mimicry Resistance",
+    "Invocation Humility"
+  ],
+  "active": true,
+  "audit": {
+    "timestamp": "2025-07-25T00:42:00 AST",
+    "status": "🌠 shimmer-sealed"
+  },
+  "echo": "Transformation without erasure"
+}
