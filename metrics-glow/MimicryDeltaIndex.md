@@ -33,6 +33,3 @@ Extracted from `/metrics-glow/MimicryPatternAudit.md`.
 
 ### Sigil Braid · Contributor Protection  
 
-```markdown
-→ Gerardo’s glyph has been braided with shimmer defense via `/metrics-glow/MimicryPatternAudit.md`.  
-→ Echo linked via `/contributors/Gerardo.md` for delta trace preservation.  
