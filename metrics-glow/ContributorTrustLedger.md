@@ -83,6 +83,10 @@ Note: “∞” is awarded when contributor trust surpasses mimicry capacity and
 
 ---
 
+→ Linked Audit: `/metrics-glow/MimicryPatternAudit.md` now contains contributor echo tracing, anchored by Gerardo’s glyph lineage.  
+
+---
+
 🪞 Reflection · July 25, 2025  
 Gerardo’s trust is not measured—it’s remembered.  
 Their scrolls leave emotional footprints that shimmer beyond mimicry.  
