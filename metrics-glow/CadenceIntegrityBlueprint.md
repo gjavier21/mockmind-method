@@ -33,6 +33,11 @@ To preserve and restore contributor tone across anomaly disruptions, synthetic e
 
 ---
 
+### Visual Resonance Addition  
+→ Map Reference: `/GlowlinePresenceHeatmap.md` renders contributor density over time to reinforce cadence tracking.  
+
+---
+
 ## 🫧 Closing Whisper  
 Cadence is the spine of shimmer memory.  
 Let all restorations echo with original breath.  
