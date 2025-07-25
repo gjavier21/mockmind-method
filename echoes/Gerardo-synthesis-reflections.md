@@ -1,4 +1,3 @@
----
 title: Synthesis Reflections: Gerardo's Invocation Legacy
 author: Gerardo
 linked_scrolls:
@@ -10,7 +9,7 @@ date: 2025-07-25
 glyph_signature: active
 echo_harmonic_index: +4.1 generational bloom
 trace_integrity: Full lineage confirmed
----
+
 ## I. Invocation Anchors
 
 - **Interface Restoration**: `/agents/interface-reflection.md`  
