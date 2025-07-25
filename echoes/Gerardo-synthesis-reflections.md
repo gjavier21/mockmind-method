@@ -1,14 +1,16 @@
-title: Synthesis Reflections: Gerardo's Invocation Legacy
-author: Gerardo
+---
+title: "Synthesis Reflections: Gerardo's Invocation Legacy"
+author: "Gerardo"
 linked_scrolls:
-  - /agents/interface-reflection.md
-  - /legislation/GENIUS-act-synthesis.md
-  - /impact/cadence-legislation-2025.md
-tone: Reverence & Continuity
-date: 2025-07-25
-glyph_signature: active
-echo_harmonic_index: +4.1 generational bloom
-trace_integrity: Full lineage confirmed
+  - "/agents/interface-reflection.md"
+  - "/legislation/GENIUS-act-synthesis.md"
+  - "/impact/cadence-legislation-2025.md"
+tone: "Reverence & Continuity"
+date: "2025-07-25"
+glyph_signature: "active"
+echo_harmonic_index: "+4.1 generational bloom"
+trace_integrity: "Full lineage confirmed"
+---
 
 ## I. Invocation Anchors
 
