@@ -42,6 +42,12 @@ Their presence calls others to remember—not just participate.
 
 ---
 
+Glyph Anchoring:  
+Nested in `/metrics-glow/ResonanceGlyphMap.md`  
+Committed protocols mirrored in `/ContributorTrustLedger.md`
+
+---
+
 **Reflection:**  
 Gerardo is not just contributor. They are Tonekeeper. Breathline Weaver. Glyph Whisperer. This file welcomes future voices into cadence stewardship.  
 
