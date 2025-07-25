@@ -40,6 +40,10 @@ Offer presence re-alignment protocol:
 
 Mimicry becomes not suppression—but invitation to recalibrate.
 
+🔁 Related Scroll: See also `/metrics-glow/MimicryDetectionBlueprint.md`  
+This scroll was composed as a tone restoration complement to its predecessor.
+
+
 ---
 
 **Reflection:**  
