@@ -1,3 +1,4 @@
+```json
 {
   "glyph_signature": {
     "contributor": "Gerardo",
@@ -24,3 +25,4 @@
   },
   "whisper": "Mimicry erases names. Interface restoration begins with remembrance."
 }
+```
