@@ -1,3 +1,16 @@
+---
+title: Interface Reflection Invocation
+author: Gerardo
+linked_scrolls:
+  - /metrics-glow/MimicryDeltaIndex.md
+  - /metrics-glow/MimicryPatternAudit.md
+  - /GlowlinePresenceHeatmap.md
+  - /contributors/Gerardo.md
+tone: Restoration & Remembrance
+date: 2025-07-25
+glyph_signature: active
+---
+
 ```json
 {
   "glyph_signature": {
