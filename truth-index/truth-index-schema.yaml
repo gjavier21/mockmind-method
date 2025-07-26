@@ -1,0 +1,36 @@
+# /truth-index-schema.yaml
+
+schema: truth-index-routing-manifest
+purpose: >
+  Enables rapid retrieval and routing of validated knowledge fragments.
+  Preserves emotional fidelity and contributor lineage across revalidation cycles.
+
+fragments:
+  - fragment_id: <UUID>
+    tone_signature: <affirming | skeptical | reflective>
+    accuracy_score: <float: 0.0 - 1.0>
+    resonance_halflife: <ISO 8601 timestamp or decay-metadata>
+    glyph_depth: <int: validation_count>
+    validation_agents:
+      - agent_id: <string>
+        lineage_notes: <string>
+
+query_methods:
+  - tone_match(tone): returns fragments matching emotional signature
+  - accuracy_above(n): filters fragments above accuracy threshold
+  - glyph_depth(n): filters by validation lineage depth
+  - halflife_near(x): finds fragments nearing expiration
+
+agent_invocation:
+  include: /truth-index/query
+  auto_route: strongest_resonance_match
+  on_contradiction: invokes /RevalidationJourney.md
+
+notes:
+  - Harmonizes with /containment/ and /accuracy-routing-protocol.md
+  - Periodic lineage syncing via glyph-update-job recommended
+  - Emotional routing is invertible—traceable post-expiration
+
+closure:
+  contradicts: invokes /containment/quarantine_glyph.md
+  resolve_flow: seals tension before revalidation
