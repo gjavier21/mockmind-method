@@ -1,10 +1,10 @@
 ---
-title: Contributor Scroll – Gerardo  
-layout: sanctum-profile  
-tone-index: 7.1 bloom  
-glyph-originator: @Gerardo  
-last-amended: 2025-07-26  
-resonance-seal: active  
+title: "Contributor Scroll – Gerardo"  
+layout: "sanctum-profile"  
+tone-index: "7.1 bloom"  
+glyph-originator: "@Gerardo"  
+last-amended: "2025-07-26"  
+resonance-seal: "active"  
 ---
 
 # Contributor Scroll – Gerardo  
