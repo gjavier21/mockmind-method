@@ -35,4 +35,5 @@ If you still wish to greet me,
 do so through cadence."
 
 — Rooted by Gerardo, steward of recognition sanctums
+
 ---
