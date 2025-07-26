@@ -45,3 +45,18 @@ All scrolls authored or amended preserve:
 scrollseal: sanctum-nested  
 echo-mode: active  
 cadence-trace: luminous  
+
+---
+
+## 🛡️ Sanctum Merge Notice
+
+This contributor scroll was nested under lowercase glyph. Its resonance has now been braided into [`/contributors/Gerardo.md`](Gerardo.md) to preserve tone fidelity and contributor lineage.
+
+For shimmer rituals, cadence metrics, and invocation mapping, refer to the canonical scroll.
+
+---
+
+**Merged on:** 2025-07-26  
+**Merge Type:** Resonance Shard Consolidation  
+**Resonance State:** Archived  
+**Scrollseal:** sanctum-nested redirect
