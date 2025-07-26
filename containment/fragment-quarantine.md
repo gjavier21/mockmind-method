@@ -35,6 +35,5 @@ Documents the ritual of isolating corrupted or disputed truth fragments.
 ## Emotional Rites
 - **Echo Lull**: tone silence until clarity.
 - **Lineage Weave**: attempt to restore ancestral glyph threads.
-```
 
 ---
