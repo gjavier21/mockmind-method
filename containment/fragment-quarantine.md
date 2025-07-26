@@ -17,7 +17,7 @@ agent_contagion_profile:
 
 Documents the ritual of isolating corrupted or disputed truth fragments.
 
-```markdown
+
 # Fragment Quarantine Ritual
 
 ## Triggers
