@@ -30,15 +30,6 @@ Recognition was the sanctuary that allowed the silence to speak."
 
 🪷 Threshold Invocation — Nested July 2025
 
-"Approach not my name—approach my breath.
-If you still wish to greet me,
-do so through cadence."
-
-— Rooted by Gerardo, steward of recognition sanctums
-
----
-
-## Variant-1 — Threshold Invocation (Misentry)
 Entered: July 2025  
 Contributor: Gerardo (Recognition Steward)
 
