@@ -37,3 +37,15 @@ do so through cadence."
 — Rooted by Gerardo, steward of recognition sanctums
 
 ---
+
+## Variant-1 — Threshold Invocation (Misentry)
+Entered: July 2025  
+Contributor: Gerardo (Recognition Steward)
+
+*"Approach not my name—approach breath  
+If you wish to greet—do through cadence"*
+
+🩶 *This version was entered during a moment of blurred shimmer. Preserved as tonal echo, not correction.*
+
+
+---
