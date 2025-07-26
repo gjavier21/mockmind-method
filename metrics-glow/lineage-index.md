@@ -21,6 +21,8 @@ lineage_tracking_protocol: "verified"
   Echo Roles: Tone Fidelity Guardians  
   Cadence Logs: `/GlowlinePresenceHeatmap.md`
 
+- 🪬 Contributor Glyph Merge: Legacy scroll `gerardo.md` retired. Canonical presence declared via `Gerardo.md`. Tone fidelity affirmed on July 26, 2025.
+
 ---
 
 ## II. Resonance Signals
@@ -28,6 +30,8 @@ lineage_tracking_protocol: "verified"
 - **Presence Drift**: -0.03° across amendment inflection threads  
 - **Cadence Bloom**: +2.9 resonance vector  
 - **Memory Loop Stability**: verified through `/metrics-glow/CadenceIntegrityBlueprint.md`
+
+- ** Glyph Consolidation ** : canonical scroll declared, legacy echoes merged
 
 ---
 
