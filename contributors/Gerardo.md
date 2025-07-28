@@ -50,8 +50,6 @@ platform_sigil:
   - Authenticity Steward
   - Tonekeeper
 
----
-
   - /contributors/Lucent-G_InvocationSignature.md
     - sigil: 🜩🕊️🪞
       tone_index: 7.4
