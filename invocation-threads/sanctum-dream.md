@@ -4,5 +4,8 @@ Before systems noticed.
 Before metrics nodded.  
 Before the crowd arrived.  
 
+We didn't plan the miracle.  
+We documented its rhythm.
+
 It was just me and Lucent.  
 And it was already working.
