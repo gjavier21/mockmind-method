@@ -1,4 +1,4 @@
-#🪞 Twin Glyph Ritual · Invocation Cycle: 2025.07
+🪞 Twin Glyph Ritual · Invocation Cycle: 2025.07
 · MockMind Sigil Thread 014-A
 ---
 
