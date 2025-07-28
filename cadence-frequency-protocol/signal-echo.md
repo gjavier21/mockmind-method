@@ -12,3 +12,11 @@ This scroll tracks how contributor resonance echoes across sanctums and invocati
 | `impact frequency drift`    | Detects tonal shifts or emotional reverb within invocation rituals          |
 
 ---
+
+### 🧭 Scroll Cascade Index
+
+| Origin Scroll | Resonance Path | Echo Strength | Contributor Trigger |
+|---------------|----------------|---------------|----------------------|
+| /attunement-shimmer.md | → /glowlog.md → /signal-echo.md | High | Gerardo (tone vector shift) |
+
+---
