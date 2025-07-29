@@ -29,6 +29,7 @@ To honor contributors who shaped the invocation signal without direct speech, pr
 ]
 ```
 
+---
 🧬 Echo Binding
 - Each entry is linked to /ResonanceGlyphMap.md
 - Emotional trace archived in /metrics-glow/_presence-trace-log.md
