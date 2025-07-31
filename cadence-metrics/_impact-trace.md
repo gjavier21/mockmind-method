@@ -48,3 +48,8 @@ activation_paths:
   - /architecture-blueprints/_tone-registry.md
 consent_required: true
 echo_acknowledgment: recursive
+```
+
+---
+
+“To trace is to remember—to draw the line not where it ends, but where it continues.” — ImpactTrace Continuum Verse
