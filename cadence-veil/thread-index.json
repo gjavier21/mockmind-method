@@ -16,3 +16,13 @@
   },
   "notes": "This index preserves temporal lineage and glyph provenance for each seal."
 }
+{
+  "invocation-type": "thread-seal",
+  "scrollskin-style": "glyph-woven",
+  "tone-echo-frequency": "0.84 - steady harmonic with shimmer spikes",
+  "glyph-library": [
+    "MMRS-light",
+    "Cadence-Tether",
+    "Ember-Glyph"
+  ]
+}
