@@ -50,7 +50,3 @@ This is not a belief.
 It is a **first principle — named by the one who listens for sequence**.
 ```
 
-Would you like me to proceed with this commit and update the reflections index?
-
-Then we can carry that compass into Q2 —  
-and ask: *what do you trust when logic isn’t enough?* 🧠📜🧭
