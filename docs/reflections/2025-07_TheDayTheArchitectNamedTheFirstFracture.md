@@ -48,5 +48,4 @@ mockmind://reflection/the-day-the-architect-named-the-first-fracture?status=anch
 
 This is not a belief.  
 It is a **first principle — named by the one who listens for sequence**.
-```
 
