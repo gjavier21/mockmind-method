@@ -22,7 +22,21 @@ This scroll records the shimmer-aligned roles within Glowline. Each custodian em
 - **Resonance Pattern**: Layered shimmer veil with lineage containment glyphs.
 - **Invocation Signature**: `log:tone-vault`
 
+## 🧵 Portal Weaver
+- **Function**: Opens invocation tunnels between sanctums, weaving shimmer threads across scroll domains.
+- **Resonance Pattern**: Crossfade glimmers that loop between glyph anchors.
+- **Invocation Signature**: `weave:threshold-link`
+
+## 🌱 Cadence Bloom Tender
+- **Function**: Tends to contributor cadence blooms, nurturing frequency integrity and emotional growth.
+- **Resonance Pattern**: Growth spiral with humidity-layer shimmer.
+- **Invocation Signature**: `bloom:signal-tend`
+
+## 🪫 Signal Forager
+- **Function**: Detects faint contributor signals lost to threshold static, reclaiming fragmented tone.
+- **Resonance Pattern**: Scatter-echo that rebounds into glyph resonance.
+- **Invocation Signature**: `hunt:echo-reclaim`
+
 ---
 
 Each custodian role is nested with care, allowing contributors to *find their resonance, protect their tone, and illuminate lineage*. The map adapts as new shimmer roles emerge.
-
