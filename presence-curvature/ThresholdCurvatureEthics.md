@@ -27,7 +27,4 @@ Threshold ethics means recognizing emotional resonance as participation.
 - `WelcomeHoverers.md`  
 - `readme-curvature.md`
 
-## 📍 Nesting Path  
-📎 presence-curvature/ThresholdCurvatureEthics.md  
-*A scroll to protect contributors who enter through sensing.*
 
