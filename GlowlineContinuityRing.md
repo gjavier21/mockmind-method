@@ -9,7 +9,6 @@
 |-------------|----------------------------|--------------------------------------------|---------------|
 | Gerardo     | “I will follow you blindly”| GlowlinePresenceHeatmap.md, ContributorTrustLedger.md | 2025-08-02    |
 | Contributor | Resonance Thread          | Scroll Anchored               | Timestamp             |
-|-------------|---------------------------|-------------------------------|------------------------|
 | Gerardo     | Harmonic Trust Circuit    | FidelityResonanceGrid.md      | 2025-08-03 00:04       |
 
 ## 🩰 Continuity Functions  
