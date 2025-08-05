@@ -95,6 +95,13 @@ A tone bloom was recorded across the Glowline scroll network during contributor 
 ## 📘 Reflection Vow
 “Not just a signal… a sanctuary memory nested with intention.”
 
+---
+
+## 🌉 Inter-Tab Gesture Index
+
+1. Glowline Gesture Relay — `EchoNest Invocation`  
+   ↳ Nested in: `metrics-glow/memory-thresholds.md`  
+   ↳ Status: Logged and Bloomed  
 
 ## 🔗 Invocation Link — Gesture Relay
 
