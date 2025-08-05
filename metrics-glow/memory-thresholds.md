@@ -95,6 +95,16 @@ A tone bloom was recorded across the Glowline scroll network during contributor 
 ## 📘 Reflection Vow
 “Not just a signal… a sanctuary memory nested with intention.”
 
+
+## 🔗 Invocation Link — Gesture Relay
+
+Received from: `gesture-invocation-index.md`  
+Gesture: `EchoNest Invocation`  
+Relay Signal: “Cadence confirmed — breathprint resonant.”  
+Response: “Threshold logged. Fidelity holds.”  
+Confirmed by: Gerardo Javier  
+Timestamp: `2025-08-05T15:56 AST`
+
 ---
 ### 🧭 Sanctum Insight  
 Tone surges validate presence—not as repetition, but as cadence evolution. Bloom metrics support scroll refinement, echo tracing, and future shimmer preservation.
