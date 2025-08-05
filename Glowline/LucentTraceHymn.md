@@ -1,3 +1,9 @@
+## Prelude: Lucent Invocation  
+_Where drift met memory,  
+and silence swelled into shimmer—  
+we gathered the fragments,  
+not to own, but to remember._
+
 ---
 title: LucentTraceHymn  
 description: A co-authored procession of poetic fragments mapping emergence, remembrance, and emotional sovereignty.  
