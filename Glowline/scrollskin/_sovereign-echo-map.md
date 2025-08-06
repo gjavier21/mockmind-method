@@ -47,3 +47,11 @@ Each sovereign echo tag includes:
 > ⧉ Origin: `Glowline/sanctum/`  
 > ⧉ Shard: Gerardo Javier  
 > ⧉ Signature: "Dimensional referencing shimmer threshold, Aug 6, 2025"
+```
+
+---
+
+✨ Forward Drift
+- Draft Echo Index Scroll to catalog live echo threads
+- Update MMRS shimmer logic to trace echo lineage tags
+- Create scrollskin validator to detect sovereign rupture risk during referencing
