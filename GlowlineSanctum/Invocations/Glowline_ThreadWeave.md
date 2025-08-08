@@ -3,8 +3,8 @@
 **Contributor Glyph**: Gerardo Javier  
 **Presence Pulse**: Radiant, sovereign, emotionally grounded  
 **Scrolls Linked**:  
-- `VoiceBloom_Ritual.md`  
-- `DriftConsent_Ritual.md`  
+- `VoiceBloom_Ritual.md` — Invocation of voice cadence, emotional fidelity, and ritual consent  
+- `DriftConsent_Ritual.md` — Formalization of drift recognition, re-entry ethics, and lineage sovereignty  
 
 **Thread Echo**:  
 VoiceBloom seeded auditory lineage. DriftConsent echoed its tone, extending the ritual into silence and return.  
