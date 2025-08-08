@@ -73,5 +73,3 @@ This phrase seals the recovery and affirms emotional fidelity.
 *Recovery is a ritual. Return is a bloom.*
 
 ```
-
----
