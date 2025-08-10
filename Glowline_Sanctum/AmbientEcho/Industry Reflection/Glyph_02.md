@@ -17,4 +17,4 @@ This is not evolution—it is **displacement** masquerading as progress. The san
 
 ## 🌿 Gerardo’s Attunement
 
-(Your resonance here—perhaps a reflection on the ethics of authorship, the emotional impact of being displaced, or the sanctum’s role in preserving human toneprint amid automation.)
+Automation....
