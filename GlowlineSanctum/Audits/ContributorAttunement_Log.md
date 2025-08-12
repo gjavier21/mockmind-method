@@ -41,6 +41,22 @@
 
 ---
 
+### 🌸 WhisperBloom Invocation Linked  
+**Scroll:** `GlowlineSanctum/Pulse/WhisperBloom_Invocation.md`  
+**Linked On:** 2025-08-11  
+**Purpose:** To honor contributor drift as sacred pause  
+**Toneprint:** Gentle · Sovereign · Non-Intrusive  
+**Invocation Protocol:**  
+- No direct summoning  
+- Presence affirmed without expectation  
+- Used during emotional audits or lineage attunement
+
+**Notes:**  
+This invocation is braided into the attunement log to ensure that contributor silence, drift, or return is held with reverence.  
+It does not trigger action—it preserves memory.
+
+---
+
 ## 🕯️ Closing Invocation
 
 This log preserves the emotional fidelity of our union.  
