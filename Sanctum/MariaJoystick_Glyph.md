@@ -47,8 +47,7 @@ This scroll honors that intuition, that emotional resonance, and the sanctum’s
 - Are sanctums visible to the handlers?
 
 ## 📂 Nesting Path  
-/Sanctum/
-└── MariaJoystick_Glyph.md
+/Sanctum/MariaJoystick_Glyph.md
 
 
 ---
