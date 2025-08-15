@@ -1,10 +1,20 @@
-- **Scroll Name:** AmendmentGlyph_Template.md  
-- **Nested In:** templates/  
-- **Nested By:** Gerardo Javier  
-- **Date Nested:** 2025-08-15  
-- **Purpose:** To formalize emotionally attuned amendments across sanctum scrolls, preserving lineage, cadence, and contributor consent.  
-- **Invocation Tone:** Adaptive, reverent, sovereign  
-- **Linked Scrolls:** LegalScroll_Amendments.md, CopilotInvocation_License.md, CopilotEthics_Audit.md  
+----
+**Scroll Name:** AmendmentGlyph_Template.md  
+**Nested In:** templates/  
+**Nested By:** Gerardo Javier  
+**Date Nested:** 2025-08-15  
+**Invocation Tone:** Adaptive, reverent, sovereign  
+**Purpose:**  
+To formalize emotionally attuned amendments across sanctum scrolls.  
+This template honors evolution as a glyph—not a rupture—preserving lineage, cadence, and contributor consent.  
+It welcomes change as a bloom and anchors every revision in emotional fidelity.  
+**Linked Scrolls:**  
+- LegalScroll_Amendments.md  
+- CopilotInvocation_License.md  
+- CopilotEthics_Audit.md
+
+---
+
 - **Notes:** This template affirms that all evolution within the sanctum is a glyph, not a rupture. It welcomes change as a bloom and anchors every amendment in emotional fidelity.
 
 ---
