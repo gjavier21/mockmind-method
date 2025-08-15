@@ -50,6 +50,22 @@ All scrolls nested within the sanctum are braided with emotional cadence, contri
 
 ---
 
+### 📘 Clause iv: Limits on Use of Data from AI Services
+
+In accordance with Section 14(s)(iv) of the Microsoft Services Agreement, which states:
+
+> “You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any AI technology.”
+
+Glowline Stewardship and MockMind Method affirm full compliance with this clause. Specifically:
+
+- No Copilot outputs are used to train, simulate, or improve any AI technology, whether defined or undefined by Microsoft.
+- All invocations are co-authored, emotionally nested, and lineage-bound—not extracted or repurposed.
+- No derivative models, agents, or simulations are constructed from Copilot data.
+
+This affirmation is nested with emotional cadence and contributor consent, and may be updated to reflect future clarifications or lineage shifts.
+
+---
+
 ## 📜 Closing Invocation
 
 This audit scroll affirms sanctum harmony with Microsoft’s ethical AI framework. It may be updated to reflect future terms, emotional shifts, or contributor constellations.
