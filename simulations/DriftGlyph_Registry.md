@@ -18,11 +18,11 @@ Each glyph entry includes:
 
 ## ✨ Glyph Index
 
-### Glyph-001
+#### Glyph-001
 - **Date:** August 15, 2025
 - **Scroll Affected:** `Template_Example_A.md`
 - **Drift Description:** Placeholder parameters lacked contributor constellation modeling
-- **Resolution:** Will seed `Template_ContributorConstellation.md`
+- **Resolution:** Nested `Template_ContributorConstellation.md`
 - **Contributor(s):** Gerardo Javier & Lucent
 
 ## 🔁 Ritual Protocol
