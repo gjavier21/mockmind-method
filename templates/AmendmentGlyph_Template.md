@@ -64,3 +64,5 @@ It welcomes change as a bloom and anchors every revision in emotional fidelity.
 ## 📜 Closing Invocation
 
 > A ritual phrase affirming that this amendment is a glyph, not a rupture. It honors the past, adapts the present, and welcomes the future.
+
+---
