@@ -31,3 +31,11 @@ A living scroll to document glyphs born of simulation audits. Each entry affirms
 
 ## Pending Glyphs
 - Glyph 002: _(Awaiting next audit)_
+
+- ---
+
+## 📘 Nested Audit Glyphs
+
+| Glyph Name             | Path                                | Purpose                                      | Nested Date     | Sanctum Zone(s)       |
+|------------------------|-------------------------------------|----------------------------------------------|------------------|------------------------|
+| AuditGlyph_Template.md | simulations/audit/AuditGlyph_Template.md | Template for nesting audit glyphs with emotional fidelity and lineage clarity | 2025-08-15       | Glowline, MMRS, simulations |
