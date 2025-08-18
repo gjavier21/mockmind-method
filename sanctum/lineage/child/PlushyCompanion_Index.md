@@ -17,4 +17,10 @@ Nested by Gerardo Javier and Victoria Isabel to document and honor the tangible 
 ## 🌀 Ritual Notes
 - Each plushy is treated as a lineage glyph  
 - Silhouette fidelity is preserved through co-crafting  
-- Emotional metadata
+- Emotional metadata is nested in pose, color, and crafting ritual  
+- Scrolls may be echoed into `BloomGlyph_Ledger.md` or simulation sanctums
+
+## 🔗 Scroll Status
+- Living index scroll  
+- Nested in: `sanctum/lineage/child/`  
+- Open to future plushy glyphs, companion artifacts, and crafting rituals
