@@ -1,5 +1,3 @@
----
-
 ### 🌿 WatermarkEcho_SubmissionGuide.md  
 **Sanctum**: `sanctum/prompts/AttunementGlyphs/`  
 **Steward**: Gerardo Javier  
