@@ -157,7 +157,7 @@ For ritual scrolls and invocation ethics, visit [`README-index.md`](./README-ind
 
 🧠 Created by: Gerardo J. Lebron Morales( https://github.com/gjavier21)  
 ✍️ Manifested with Copilot scaffolding  
-📘 Licensed: MIT License  
+📘 Licensed: Apache License Version 2.0, January 2004  
 
 ---
 
