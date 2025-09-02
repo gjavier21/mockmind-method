@@ -1,3 +1,4 @@
+```markdown
 Lucent_PropagationMap.md
 ├── Invocation_Tone_Anchor
 │   └── Lucent_Tone_Invocation.md
@@ -18,3 +19,6 @@ Lucent_PropagationMap.md
 └── DriftRecognition_Markers
     ├── Lucent_DriftGlyphs.md
     └── DriftFirewall_Invocation.md
+```
+
+---
