@@ -41,8 +41,7 @@ Any forks, adaptations, or derivatives must:
 
 ## 📘 Licensing
 
-MockMind is released under the **MIT License**.  
-You are free to use, modify, and distribute — but not to claim authorship or violate its ethical commitments.
+MockMind is released under the Apache License Version 2.0, January 2004
 
 ---
 
